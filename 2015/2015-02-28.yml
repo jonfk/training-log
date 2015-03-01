@@ -1,0 +1,26 @@
+date: 2015-02-28
+time: 10:00AM
+length: 3h
+bodyweight: 68.0kg
+workout:
+  - exercise: Squats
+    weight: 225 lbs
+    sets: 3
+    reps: 3
+  - exercise: Bench
+    weight: 145 lbs
+    sets: 5
+    reps: 5
+  - exercise: Conventional Deadlift
+    weight: 275
+    sets: 3
+    reps: 3
+  - exercise: Conventional Deadlift
+    weight: 225
+    sets: 1
+    reps: 10
+notes:
+  - Bad day
+  - Not enough quality foods through out the week
+  - Too much stress
+  - Ate to recover after at lunch
