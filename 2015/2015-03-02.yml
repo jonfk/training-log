@@ -1,0 +1,28 @@
+date: 2015-03-02
+time: 04:00PM
+length: 3h
+bodyweight: 68.0kg
+workout:
+  - name: over-head press
+    weight: 85 lbs
+    sets: 5
+    reps: 5
+  - name: behind neck press
+    weight: 65 lbs
+    sets: 3
+    reps: 6
+  - name: incline db press
+    weight: 40 lbs
+    sets: 3
+    reps: 12
+  - name: pull ups
+    weight: 68 kg
+    sets: 5
+    reps: 5
+  - name: alternating db curls
+    weight: 25 lbs
+    sets: 5
+    reps: 12
+notes:
+  - Not very concentrated
+  - no pump post workout
