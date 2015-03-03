@@ -18,7 +18,7 @@ type TrainingLog struct {
 	Total      string `total,omitempty`
 	Workout    []struct {
 		Name   string `name`
-		Weight string `weight`
+		Weight string `weight,omitempty`
 		Sets   string `sets`
 		Reps   string `reps`
 	} `workout`

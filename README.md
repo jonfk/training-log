@@ -6,19 +6,17 @@ my training log in yaml format
 ##Template
 ```yaml
 date: yyyy-mm-dd
-time: 04:00PM
-length: 3h
-bodyweight: 68.0kg
+time: 04:00PM                                   #OPTIONAL key
+length: 3h                                      #OPTIONAL key
+bodyweight: 68.0kg                              #OPTIONAL key
+event: Saguenay Open et Provincial Equipe 2014  #OPTIONAL key
+wilks: 290.41                                   #OPTIONAL key
+total: 360.0 kg                                 #OPTIONAL key
 workout:
-  - name: over-head press
-    weight: 85 lbs
+  - name: squats
+    weight: 225 lbs                             #OPTIONAL key
     sets: 5
     reps: 5
-  - name: behind neck press
-    weight: 65 lbs
-    sets: 3
-    reps: 6
 notes:
-  - Not very concentrated
-  - no pump post workout
+  - ...
 ```
