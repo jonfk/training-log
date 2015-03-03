@@ -3,19 +3,19 @@ time: 10:00AM
 length: 3h
 bodyweight: 68.0kg
 workout:
-  - exercise: Squats
+  - name: squats
     weight: 225 lbs
     sets: 3
     reps: 3
-  - exercise: Bench
+  - name: bench
     weight: 145 lbs
     sets: 5
     reps: 5
-  - exercise: Conventional Deadlift
+  - name: conventional deadlift
     weight: 275
     sets: 3
     reps: 3
-  - exercise: Conventional Deadlift
+  - name: conventional deadlift
     weight: 225
     sets: 1
     reps: 10
