@@ -1,0 +1,47 @@
+date: 2014-11-08
+time: 04:00PM
+length: 3h
+bodyweight: 63.9kg
+event: Saguenay Open et Provincial Equipe 2014
+wilks: 290.41
+total: 360.0 kg
+workout:
+  - name: squats
+    weight: 112.5 kg
+    sets: 1
+    reps: 1
+  - name: squats
+    weight: 117.5 kg
+    sets: 1
+    reps: 1
+  - name: squats
+    weight: 125.0 kg
+    sets: 1
+    reps: 1
+  - name: bench press
+    weight: 65.0 kg
+    sets: 1
+    reps: 1
+  - name: bench press
+    weight: 72.5 kg
+    sets: 1
+    reps: 1
+  - name: bench press
+    weight: 80.0 kg
+    sets: 1
+    reps: 1
+  - name: deadlift
+    weight: 140.0 kg
+    sets: 1
+    reps: 1
+  - name: deadlift
+    weight: 145.0 kg
+    sets: 1
+    reps: 1
+  - name: deadlift
+    weight: 155.0 kg
+    sets: 1
+    reps: 1
+notes:
+  - Not very concentrated
+  - no pump post workout
