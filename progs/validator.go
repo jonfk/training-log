@@ -10,9 +10,12 @@ import (
 
 type TrainingLog struct {
 	Date       string `date`
-	Time       string `time`
-	Length     string `length`
+	Time       string `time,omitempty`
+	Length     string `length,omitempty`
 	Bodyweight string `bodyweight,omitempty`
+	Event      string `event,omitempty`
+	Wilks      string `wilks,omitempty`
+	Total      string `total,omitempty`
 	Workout    []struct {
 		Name   string `name`
 		Weight string `weight`
@@ -24,6 +27,7 @@ type TrainingLog struct {
 
 var Verbose bool = false
 var Flexible bool = false
+var Output bool = false
 
 func main() {
 	// Parse Command Line arguments
@@ -45,6 +49,10 @@ func main() {
 			Flexible = true
 		case "--flexible":
 			Flexible = true
+		case "-o":
+			Output = true
+		case "--output":
+			Output = true
 		default:
 			process(args[i])
 		}
@@ -91,6 +99,15 @@ func process(arg string) {
 		}
 		if Verbose {
 			fmt.Printf("--- t:\n%#v\n\n", t)
+		}
+
+		// Output flag set
+		if Output {
+			d, err := yaml.Marshal(&t)
+			if err != nil {
+				log.Fatalf("error: %v", err)
+			}
+			fmt.Printf("%s\n", string(d))
 		}
 	}
 
