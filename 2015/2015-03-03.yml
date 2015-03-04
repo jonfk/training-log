@@ -1,0 +1,25 @@
+date: 2015-03-03
+time: 04:30PM
+length: 2h
+bodyweight: 67.3kg
+workout:
+  - name: high bar squats
+    weight: 215 lbs
+    sets: 5
+    reps: 5
+  - name: paused bench press
+    weight: 150 lbs
+    sets: 5
+    reps: 5
+  - name: stiff legged deadlifts
+    weight: 185 lbs
+    sets: 3
+    reps: 8
+  - name: pull ups
+    weight: 67.3 kg
+    sets: 6
+    reps: 5
+notes:
+  - Not very concentrated during squats
+  - Bench press felt easy with decent pause
+  - Right glute/hip feels irritated
