@@ -6,6 +6,7 @@ import (
 	"io/ioutil"
 	"log"
 	"os"
+	"strings"
 )
 
 type TrainingLog struct {
@@ -34,30 +35,53 @@ func main() {
 	args := os.Args[1:] // Ignore program name
 
 	for i := range args {
-		switch args[i] {
-		case "-h":
-			printUsage()
-			os.Exit(0)
-		case "--help":
-			printUsage()
-			os.Exit(0)
-		case "-v":
-			Verbose = true
-		case "--verbose":
-			Verbose = true
-		case "-f":
-			Flexible = true
-		case "--flexible":
-			Flexible = true
-		case "-o":
-			Output = true
-		case "--output":
-			Output = true
-		default:
+		if isLongFlag(args[i]) {
+			switch args[i] {
+			case "--help":
+				printUsage()
+				os.Exit(0)
+			case "--verbose":
+				Verbose = true
+			case "--flexible":
+				Flexible = true
+			case "--output":
+				Output = true
+			}
+		} else if isFlag(args[i]) {
+			for j := range args[i] {
+				switch args[i][j] {
+				case 'h':
+					printUsage()
+					os.Exit(0)
+				case 'v':
+					Verbose = true
+				case 'f':
+					Flexible = true
+				case 'o':
+					Output = true
+				}
+			}
+		} else {
 			process(args[i])
 		}
 	}
 
+}
+
+func isLongFlag(arg string) bool {
+	idx := strings.Index(arg, "--")
+	if idx == 0 {
+		return true
+	}
+	return false
+}
+
+func isFlag(arg string) bool {
+	idx := strings.Index(arg, "-")
+	if idx == 0 {
+		return true
+	}
+	return false
 }
 
 func process(arg string) {
@@ -86,7 +110,7 @@ func process(arg string) {
 				log.Fatalf("Error parsing yaml file %s\n%v", arg, err)
 			}
 			if Verbose {
-				fmt.Printf("--- m:\n%#v\n\n", m)
+				fmt.Printf("--- Flexible:\n%#v\n\n", m)
 			}
 			return
 		}
@@ -98,7 +122,7 @@ func process(arg string) {
 			log.Fatalf("Error parsing yaml file %s\n%v", arg, err)
 		}
 		if Verbose {
-			fmt.Printf("--- t:\n%#v\n\n", t)
+			fmt.Printf("--- TrainingLog:\n%#v\n\n", t)
 		}
 
 		// Output flag set
@@ -114,7 +138,15 @@ func process(arg string) {
 }
 
 func printUsage() {
-	fmt.Println("Usage TODO")
+	usage := `
+Usage [-hvfo][--help][--verbose][--flexible][--output] [Arguments...]
+
+Options:
+--help, -h       show this message, then exit
+--verbose, -v    Print the internal datastructure the yaml mapped to
+--flexible, -f   Verify the yaml rather than the template
+--output, -o     Output the idealized template`
+	fmt.Printf("%s\n", usage)
 }
 
 func IsDirectory(path string) (bool, error) {
