@@ -1,0 +1,23 @@
+date: 2015-03-05
+time: 05:30PM
+length: 1h30
+bodyweight: 67.5kg
+workout:
+  - name: overhead press
+    weight: 90 lbs
+    sets: 5
+    reps: 5
+  - name: front squats
+    weight: 155 lbs
+    sets: 5
+    reps: 5
+  - name: close grip bench press
+    weight: 145 lbs
+    sets: 5
+    reps: 5
+  - name: bent over rows
+    weight: 135 lbs
+    sets: 5
+    reps: 5
+notes:
+  - external stress affected concentration
