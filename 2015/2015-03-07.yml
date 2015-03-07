@@ -1,0 +1,35 @@
+date: 2015-03-07
+time: 11:00AM
+length: 2h
+bodyweight: 68.0kg
+workout:
+  - name: low bar squats
+    weight: 240 lbs
+    sets: 3
+    reps: 3
+  - name: bench press
+    weight: 160 lbs
+    sets: 6
+    reps: 4
+  - name: sumo deadlift
+    weight: 275 lbs
+    sets: 1
+    reps: 5
+    exertion: rpe 7
+  - name: sumo deadlift
+    weight: 295 lbs
+    sets: 1
+    reps: 5
+    exertion: rpe 7
+  - name: sumo deadlift
+    weight: 315 lbs
+    sets: 1
+    reps: 5
+    exertion: rpe 8
+notes:
+  - woke up late with sore throat and feeling of fever
+  - sick with a viral infection, common cold probably
+  - squats felt heavy
+  - bench felt moderately heavy
+  - deadlifts felt easy
+  - strained my left glute on last rep of top set of sumo deadlift
