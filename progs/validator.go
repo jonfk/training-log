@@ -18,10 +18,11 @@ type TrainingLog struct {
 	Wilks      string `wilks,omitempty`
 	Total      string `total,omitempty`
 	Workout    []struct {
-		Name   string `name`
-		Weight string `weight,omitempty`
-		Sets   string `sets`
-		Reps   string `reps`
+		Name     string `name`
+		Weight   string `weight,omitempty`
+		Sets     string `sets`
+		Reps     string `reps`
+		Exertion string `exertion`
 	} `workout`
 	Notes []string `notes,omitempty`
 }

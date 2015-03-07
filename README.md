@@ -17,6 +17,7 @@ workout:
     weight: 225 lbs                             #OPTIONAL key
     sets: 5
     reps: 5
+    exertion: rpe 8                             #OPTIONAL key
 notes:
   - ...
 ```
