@@ -9,6 +9,14 @@ import (
 	"strings"
 )
 
+type Exercise struct {
+	Name     string `name`
+	Weight   string `weight,omitempty`
+	Sets     string `sets`
+	Reps     string `reps`
+	Exertion string `exertion`
+}
+
 type TrainingLog struct {
 	Date       string `date`
 	Time       string `time,omitempty`
@@ -17,13 +25,7 @@ type TrainingLog struct {
 	Event      string `event,omitempty`
 	Wilks      string `wilks,omitempty`
 	Total      string `total,omitempty`
-	Workout    []struct {
-		Name     string `name`
-		Weight   string `weight,omitempty`
-		Sets     string `sets`
-		Reps     string `reps`
-		Exertion string `exertion`
-	} `workout`
+	Workout    []Exercise `workout`
 	Notes []string `notes,omitempty`
 }
 
