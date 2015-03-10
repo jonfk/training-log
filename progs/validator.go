@@ -6,6 +6,7 @@ import (
 	"io/ioutil"
 	"log"
 	"os"
+	"path/filepath"
 	"strings"
 )
 
@@ -18,15 +19,15 @@ type Exercise struct {
 }
 
 type TrainingLog struct {
-	Date       string `date`
-	Time       string `time,omitempty`
-	Length     string `length,omitempty`
-	Bodyweight string `bodyweight,omitempty`
-	Event      string `event,omitempty`
-	Wilks      string `wilks,omitempty`
-	Total      string `total,omitempty`
+	Date       string     `date`
+	Time       string     `time,omitempty`
+	Length     string     `length,omitempty`
+	Bodyweight string     `bodyweight,omitempty`
+	Event      string     `event,omitempty`
+	Wilks      string     `wilks,omitempty`
+	Total      string     `total,omitempty`
 	Workout    []Exercise `workout`
-	Notes []string `notes,omitempty`
+	Notes      []string   `notes,omitempty`
 }
 
 var Verbose bool = false
@@ -97,7 +98,14 @@ func process(arg string) {
 		log.Fatalf("Invalid path to file or directory\n")
 	}
 	if isDir {
-		fmt.Println("isdirectory")
+		// fmt.Println("isdirectory")
+		toProcess, err := ioutil.ReadDir(arg)
+		if err != nil {
+			log.Fatalf("%s\n", err)
+		}
+		for i := range toProcess {
+			process(filepath.Join(arg, toProcess[i].Name()))
+		}
 
 	} else {
 		data, err := ioutil.ReadFile(arg)
