@@ -1,0 +1,26 @@
+date: 2015-03-10
+time: 17:00PM
+length: 1h30
+bodyweight: 68.0kg
+workout:
+  - name: high bar squats
+    weight: 215 lbs
+    sets: 4
+    reps: 5
+    exertion: rpe 9
+  - name: bench press
+    weight: 155 lbs
+    sets: 6
+    reps: 5
+    exertion: rpe 8
+  - name: stiff legged deadlifts
+    weight: 185 lbs
+    sets: 3
+    reps: 8
+  - name: pull ups
+    weight: 68.0 lbs
+    sets: 3
+    reps: 5
+notes:
+  - still sick from cold
+  - head ache on squats
