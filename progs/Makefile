@@ -1,4 +1,6 @@
 
+.PHONY: getdependencies clean all
+
 getdependencies:
 	go get gopkg.in/yaml.v2
 
@@ -10,3 +12,5 @@ statistics: common.go statistics.go
 
 clean:
 	rm validator statistics
+
+all: validator statistics
