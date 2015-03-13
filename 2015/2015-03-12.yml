@@ -1,0 +1,33 @@
+date: 2015-03-12
+time: 16:30PM
+length: 2h
+bodyweight: 67.6kg
+workout:
+  - name: overhead press
+    weight: 95 lbs
+    sets: 1
+    reps: 5
+    exertion: rpe 9
+  - name: overhead press
+    weight: 90 lbs
+    sets: 5
+    reps: 5
+    exertion: rpe 9
+  - name: front squat
+    weight: 160 lbs
+    sets: 5
+    reps: 5
+  - name: close grip bench press
+    weight: 145 lbs
+    sets: 6
+    reps: 5
+  - name: deficit conventional deadlifts
+    weight: 225 lbs
+    sets: 3
+    reps: 5
+  - name: pull ups
+    weight: 67.6 lbs
+    sets: 5
+    reps: 5
+notes:
+  - conditioning was better than usual
