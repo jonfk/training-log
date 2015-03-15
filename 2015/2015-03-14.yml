@@ -8,10 +8,19 @@ workout:
     sets: 5
     reps: 3
     exertion: rpe 9
+  - name: low bar squats
+    weight: 155 lbs
+    sets: 3
+    reps: 8
   - name: bench press
     weight: 165 lbs
     sets: 5
     reps: 4
+    exertion: rpe 9
+  - name: bench press
+    weight: 135 lbs
+    sets: 3
+    reps: 8
     exertion: rpe 9
   - name: sumo deadlift
     weight: 295 lbs
