@@ -1,4 +1,4 @@
-package main
+package common
 
 type Exercise struct {
 	Name     string `name`

@@ -1,16 +1,17 @@
 
-.PHONY: getdependencies clean all
+.PHONY: getdependencies clean all statistics
 
 getdependencies:
 	go get gopkg.in/yaml.v2
 
-validator: common.go validator.go
-	go build validator.go common.go
+validator: validator.go
+	go build validator.go
 
-statistics: common.go statistics.go
-	go build statistics.go common.go
+statistics:
+	$(MAKE) -C statistics all
 
 clean:
-	rm validator statistics
+	rm validator
+	$(MAKE) -C statistics clean
 
 all: validator statistics

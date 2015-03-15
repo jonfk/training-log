@@ -1,6 +1,7 @@
 package main
 
 import (
+	"./common"
 	"fmt"
 	"gopkg.in/yaml.v2"
 	"io/ioutil"
@@ -106,7 +107,7 @@ func process(arg string) {
 			return
 		}
 
-		t := TrainingLog{}
+		t := common.TrainingLog{}
 
 		err = yaml.Unmarshal(data, &t)
 		if err != nil {
