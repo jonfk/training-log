@@ -1,0 +1,26 @@
+date: 2015-03-16
+time: 04:30PM
+length: 3h
+bodyweight: 68.0kg
+workout:
+  - name: overhead press
+    weight: 95 lbs
+    sets: 5
+    reps: 5
+  - name: behind the neck press
+    weight: 65 lbs
+    sets: 3
+    reps: 8
+  - name: db incline press
+    weight: 40 lbs
+    sets: 3
+    reps: 12
+  - name: db incline fly
+    weight: 30 lbs
+    sets: 3
+    reps: 10
+  - name: rows
+    weight: 135 lbs
+    sets: 5
+    reps: 5
+notes:
