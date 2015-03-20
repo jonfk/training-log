@@ -1,0 +1,25 @@
+date: 2015-03-19
+time: 05:00PM
+length: 1h30
+bodyweight: 67.5 kg
+workout:
+  - name: over head press
+    weight: 90 lbs
+    sets: 7
+    reps: 5
+  - name: front squats
+    weight: 145 lbs
+    sets: 6
+    reps: 5
+  - name: close grip bench press
+    weight: 145 lbs
+    sets: 5
+    reps: 5
+  - name: rows
+    weight: 135 lbs
+    sets: 5
+    reps: 5
+notes:
+  - had to rush through workout
+  - everything felt moderate to light
+  - needed some recovery from tuesday
