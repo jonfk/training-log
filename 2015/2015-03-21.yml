@@ -1,0 +1,33 @@
+date: 2015-03-21
+time: 10:00AM
+length: 3h00
+bodyweight: 67.5 kg
+workout:
+  - name: squats
+    weight: 250 lbs
+    sets: 4
+    reps: 3
+  - name: squats
+    weight: 185 lbs
+    sets: 4
+    reps: 8
+  - name: bench press
+    weight: 165 lbs
+    sets: 5
+    reps: 4
+  - name: bench press
+    weight: 135 lbs
+    sets: 3
+    reps: 7
+  - name: block conventional deadlift
+    weight: 275 lbs
+    sets: 3
+    reps: 5
+  - name: pull ups
+    weight: 67.5 kg
+    sets: 5
+    reps: 5
+notes:
+  - felt pretty good on squats
+  - all weights felt moderate
+  - still fighting form on the deadlift
