@@ -1,0 +1,30 @@
+date: 2015-03-24
+time: 6:00PM
+length: 2h00
+bodyweight: 67.8 kg
+workout:
+  - name: high bar squats
+    weight: 205 lbs
+    sets: 8
+    reps: 5
+  - name: bench press
+    weight: 160 lbs
+    sets: 3
+    reps: 5
+  - name: bench press
+    weight: 155 lbs
+    sets: 5
+    reps: 4
+  - name: stiff legged deadlift
+    weight: 205 lbs
+    sets: 3
+    reps: 5
+  - name: pull ups
+    weight: 67.5 kg
+    sets: 6
+    reps: 5
+notes:
+  - missed upper body bodybuilding day
+  - added more volume to high bar squats to make up for lack of intensity
+  - bench joints felt strange and hurt
+  - knees hurt during squats
