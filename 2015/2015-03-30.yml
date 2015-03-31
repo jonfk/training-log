@@ -1,0 +1,16 @@
+date: 2015-03-30
+time: 5:30PM
+length: 30m
+bodyweight: 68.0 kg
+workout:
+  - name: overhead press
+    weight: 85 lbs
+    sets: 7
+    reps: 5
+  - name: behind the neck press
+    weight: 65 lbs
+    sets: 4
+    reps: 6
+notes:
+  - low rest periods between sets
+  - quick and rushed training
