@@ -1,0 +1,13 @@
+#!/bin/sh -e
+
+export GOPATH=${PWD}/Godeps/_workspace
+export GOBIN=${PWD}/bin
+
+if [ ! -h $GOPATH/src/training-log/statistics ]; then
+    mkdir -p $GOPATH/src/training-log/
+    ln -s ${PWD} $GOPATH/src/training-log/statistics
+fi
+
+eval $(go env)
+
+go install training-log/statistics
