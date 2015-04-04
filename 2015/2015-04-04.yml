@@ -1,0 +1,41 @@
+date: 2015-04-04
+time: 10:30AM
+length: 6h
+bodyweight: 67.4 kg
+workout:
+  - name: low bar squats
+    weight: 260 lbs
+    sets: 6
+    reps: 3
+  - name: low bar squats
+    weight: 185 lbs
+    sets: 3
+    reps: 8
+  - name: bench press
+    weight: 155 lbs
+    sets: 7
+    reps: 5
+  - name: conventional deadlifts
+    weight: 330 lbs
+    sets: 1
+    reps: 3
+  - name: db incline presses
+    weight: 40 lbs
+    sets: 5
+    reps: 12
+  - name: db flies
+    weight: 35 lbs
+    sets: 5
+    reps: 8
+  - name: lat pulldowns
+    weight: 115 lbs
+    sets: 3
+    reps: 10
+  - name: pull ups
+    weight: 67.4 kg
+    sets: 5
+    reps: 5
+notes:
+  - lots of rest between sets
+  - had intra workout cliff bar
+  - was nauseous after squats
