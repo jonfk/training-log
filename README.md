@@ -60,3 +60,10 @@ notes:
 
 ###Arms:
 - alternating db curls
+
+##Time Format
+Date should be in yyyy-mm-dd.
+e.g. ```2015-01-22```
+
+Time should be in hh:mm(PM|AM)
+e.g. ```4:30PM```
