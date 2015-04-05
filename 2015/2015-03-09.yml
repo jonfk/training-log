@@ -7,11 +7,11 @@ workout:
     weight: 95 lbs
     sets: 5
     reps: 5
-  - name: behind neck press
+  - name: behind the neck press
     weight: 65 lbs
     sets: 3
     reps: 8
-  - name: inclined db press
+  - name: db incline press
     weight: 35 lbs
     sets: 3
     reps: 12

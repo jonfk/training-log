@@ -3,12 +3,12 @@ time: 10:00AM
 length: 4h00
 bodyweight: 68.0 kg
 workout:
-  - name: squats
+  - name: low bar squats
     weight: 255 lbs
     sets: 5
     reps: 3
     exertion: rpe 9
-  - name: squats
+  - name: low bar squats
     weight: 185 lbs
     sets: 3
     reps: 8
@@ -21,11 +21,11 @@ workout:
     sets: 2
     reps: 5
     exertion: rpe 10
-  - name: conventional block pulls
+  - name: block pulls
     weight: 275 lbs
     sets: 5
     reps: 3
-  - name: db press
+  - name: db incline press
     weight: 40 lbs
     sets: 3
     reps: 8
@@ -33,7 +33,7 @@ workout:
     weight: 120 lbs
     sets: 3
     reps: 12
-  - name: db chest flys
+  - name: db flyes
     weight: 30 lbs
     sets: 5
     reps: 12

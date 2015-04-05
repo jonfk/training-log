@@ -15,11 +15,11 @@ workout:
     weight: 40 lbs
     sets: 3
     reps: 12
-  - name: db incline fly
+  - name: db flyes
     weight: 30 lbs
     sets: 3
     reps: 10
-  - name: rows
+  - name: bent over rows
     weight: 135 lbs
     sets: 5
     reps: 5

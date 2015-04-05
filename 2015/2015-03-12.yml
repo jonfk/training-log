@@ -13,7 +13,7 @@ workout:
     sets: 5
     reps: 5
     exertion: rpe 9
-  - name: front squat
+  - name: front squats
     weight: 160 lbs
     sets: 5
     reps: 5
@@ -21,7 +21,7 @@ workout:
     weight: 145 lbs
     sets: 6
     reps: 5
-  - name: deficit conventional deadlifts
+  - name: deficit conventional deadlift
     weight: 225 lbs
     sets: 3
     reps: 5

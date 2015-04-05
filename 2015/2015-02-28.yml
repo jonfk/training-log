@@ -3,11 +3,11 @@ time: 10:00AM
 length: 3h
 bodyweight: 68.0kg
 workout:
-  - name: squats
+  - name: low bar squats
     weight: 225 lbs
     sets: 3
     reps: 3
-  - name: bench
+  - name: bench press
     weight: 145 lbs
     sets: 5
     reps: 5

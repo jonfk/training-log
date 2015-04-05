@@ -3,7 +3,7 @@ time: 05:00PM
 length: 1h30
 bodyweight: 67.5 kg
 workout:
-  - name: over head press
+  - name: overhead press
     weight: 90 lbs
     sets: 7
     reps: 5
@@ -15,7 +15,7 @@ workout:
     weight: 145 lbs
     sets: 5
     reps: 5
-  - name: rows
+  - name: bent over rows
     weight: 135 lbs
     sets: 5
     reps: 5

@@ -3,15 +3,15 @@ time: 04:00PM
 length: 3h
 bodyweight: 68.0kg
 workout:
-  - name: over-head press
+  - name: overhead press
     weight: 85 lbs
     sets: 5
     reps: 5
-  - name: behind neck press
+  - name: behind the neck press
     weight: 65 lbs
     sets: 3
     reps: 6
-  - name: incline db press
+  - name: db incline press
     weight: 40 lbs
     sets: 3
     reps: 12

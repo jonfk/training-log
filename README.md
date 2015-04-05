@@ -30,9 +30,11 @@ notes:
 - paused high bar squats
 - paused low bar squats
 - paused front squats
+- db lunges
 ###Pressing:
 - close grip bench press
 - bench press
+- tng bench press
 - overhead press
 - behind the neck press
 - db incline press
@@ -41,6 +43,7 @@ notes:
 - sumo deadlift
 - conventional deadlift
 - deficit conventional deadlift
+- stiff leg deadlift
 - block pulls
 - sumo block pulls
 - bent over rows
@@ -50,3 +53,5 @@ notes:
 - pull ups
 - chin ups
 - lat pulldowns
+###Arms:
+- alternating db curls

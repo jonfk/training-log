@@ -15,15 +15,15 @@ workout:
     weight: 155 lbs
     sets: 7
     reps: 5
-  - name: conventional deadlifts
+  - name: conventional deadlift
     weight: 330 lbs
     sets: 1
     reps: 3
-  - name: db incline presses
+  - name: db incline press
     weight: 40 lbs
     sets: 5
     reps: 12
-  - name: db flies
+  - name: db flyes
     weight: 35 lbs
     sets: 5
     reps: 8
