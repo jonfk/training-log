@@ -23,6 +23,7 @@ notes:
 ```
 
 ##List of workout names
+
 ###Squats:
 - high bar squats
 - low bar squats
@@ -31,6 +32,7 @@ notes:
 - paused low bar squats
 - paused front squats
 - db lunges
+
 ###Pressing:
 - close grip bench press
 - bench press
@@ -39,6 +41,7 @@ notes:
 - behind the neck press
 - db incline press
 - db flyes
+
 ###Pulling:
 - sumo deadlift
 - conventional deadlift
@@ -49,9 +52,11 @@ notes:
 - bent over rows
 - pendlay rows
 - chest supported rows
+
 ###Back:
 - pull ups
 - chin ups
 - lat pulldowns
+
 ###Arms:
 - alternating db curls
