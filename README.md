@@ -21,3 +21,32 @@ workout:
 notes:
   - ...
 ```
+
+##List of workout names
+###Squats:
+- high bar squats
+- low bar squats
+- front squats
+- paused high bar squats
+- paused low bar squats
+- paused front squats
+###Pressing:
+- close grip bench press
+- bench press
+- overhead press
+- behind the neck press
+- db incline press
+- db flyes
+###Pulling:
+- sumo deadlift
+- conventional deadlift
+- deficit conventional deadlift
+- block pulls
+- sumo block pulls
+- bent over rows
+- pendlay rows
+- chest supported rows
+###Back:
+- pull ups
+- chin ups
+- lat pulldowns
