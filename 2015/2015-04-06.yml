@@ -1,0 +1,36 @@
+date: 2015-04-06
+time: 6:00PM
+length: 1h
+bodyweight: 67.7 kg
+workout:
+  - name: overhead press
+    weight: 95 lbs
+    sets: 2
+    reps: 5
+  - name: overhead press
+    weight: 90 lbs
+    sets: 5
+    reps: 5
+  - name: behind the neck press
+    weight: 65 lbs
+    sets: 5
+    reps: 8
+  - name: db incline press
+    weight: 40 lbs
+    sets: 4
+    reps: 12
+  - name: db flyes
+    weight: 30 lbs
+    sets: 5
+    reps: 12
+  - name: bent over rows
+    weight: 135 lbs
+    sets: 5
+    reps: 5
+  - name: lat pulldowns
+    weight: 115 lbs
+    sets: 3
+    reps: 10
+notes:
+  - short rest periods
+  - sore right shoulder/back
