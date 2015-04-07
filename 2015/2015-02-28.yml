@@ -12,11 +12,11 @@ workout:
     sets: 5
     reps: 5
   - name: conventional deadlift
-    weight: 275
+    weight: 275 lbs
     sets: 3
     reps: 3
   - name: conventional deadlift
-    weight: 225
+    weight: 225 lbs
     sets: 1
     reps: 10
 notes:
