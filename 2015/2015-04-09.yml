@@ -1,0 +1,27 @@
+date: 2015-04-09
+time: 6:30PM
+length: 1h30m
+bodyweight: 68.0 kg
+workout:
+  - name: overhead press
+    weight: 90 lbs
+    sets: 7
+    reps: 5
+    exertion: rpe 8
+  - name: front squats
+    weight: 155 lbs
+    sets: 5
+    reps: 5
+  - name: close grip bench press
+    weight: 155 lbs
+    sets: 3
+    reps: 5
+  - name: lat pulldowns
+    weight: 120 lbs
+    sets: 3
+    reps: 10
+notes:
+  - squats felt kinda heavy
+  - miscalculated close grip bench weight
+  - overhead presses felt easy
+  - rushed and stressed
