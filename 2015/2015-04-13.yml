@@ -1,0 +1,34 @@
+date: 2015-04-13
+time: 6:00PM
+length: 1h
+bodyweight: 68.6 kg
+workout:
+  - name: overhead press
+    weight: 90 lbs
+    sets: 6
+    reps: 5
+  - name: behind the neck press
+    weight: 65 lbs
+    sets: 3
+    reps: 8
+  - name: db incline press
+    weight: 50 lbs
+    sets: 1
+    reps: 5
+  - name: db incline press
+    weight: 45 lbs
+    sets: 3
+    reps: 10
+  - name: bent over rows
+    weight: 135 lbs
+    sets: 3
+    reps: 5
+  - name: lat pulldowns
+    weight: 135 lbs
+    sets: 3
+    reps: 8
+notes:
+  - overhead press felt easy
+  - low rest periods
+  - stress affected workout less
+  - little sleep last night, about 6h
