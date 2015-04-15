@@ -1,0 +1,24 @@
+date: 2015-04-14
+time: 6:00PM
+length: 2h
+bodyweight: 68.4 kg
+workout:
+  - name: high bar squats
+    weight: 220 lbs
+    sets: 5
+    reps: 5
+  - name: bench press
+    weight: 155 lbs
+    sets: 6
+    reps: 5
+  - name: stiff leg deadlift
+    weight: 205 lbs
+    sets: 3
+    reps: 8
+  - name: lat pulldowns
+    weight: 135 lbs
+    sets: 3
+    reps: 8
+notes:
+  - had a bit more energy to push more
+  - took long rest between sets
