@@ -1,0 +1,26 @@
+date: 2015-04-16
+time: 6:00PM
+length: 1h
+bodyweight: 68.1 kg
+workout:
+  - name: overhead press
+    weight: 90 lbs
+    sets: 7
+    reps: 5
+  - name: front squats
+    weight: 160 lbs
+    sets: 4
+    reps: 5
+  - name: close grip bench press
+    weight: 145 lbs
+    sets: 5
+    reps: 5
+  - name: pull ups
+    weight: 68.1 kg
+    sets: 3
+    reps: 5
+notes:
+  - overhead press felt easy but unstable
+  - close grip bench was tng and had difficulty concentrating
+  - short rest on overhead press
+  - front squats form feel off
