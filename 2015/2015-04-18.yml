@@ -1,0 +1,31 @@
+date: 2015-04-18
+time: 10:00AM
+length: 3h
+bodyweight: 68.6 kg
+workout:
+  - name: low bar squats
+    weight: 250 lbs
+    sets: 5
+    reps: 5
+  - name: bench press
+    weight: 165 lbs
+    sets: 5
+    reps: 5
+  - name: conventional deadlift
+    weight: 275 lbs
+    sets: 5
+    reps: 1
+  - name: conventional deadlift
+    weight: 295 lbs
+    sets: 5
+    reps: 1
+  - name: incline bench press
+    weight: 95 lbs
+    sets: 5
+    reps: 5
+notes:
+  - squats felt great
+  - bench press lacked some concentration and form degraded on last set
+  - very short pauses on bench
+  - deadlifts were excrutiatingly hard
+  - improving deadlift form
