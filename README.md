@@ -37,6 +37,7 @@ notes:
 - close grip bench press
 - bench press
 - tng bench press
+- incline bench press
 - overhead press
 - behind the neck press
 - db incline press
