@@ -1,0 +1,16 @@
+date: 2015-04-20
+time: 5:30AM
+length: 15m
+bodyweight: 68.7 kg
+workout:
+  - name: overhead press
+    weight: 85 lbs
+    sets: 5
+    reps: 5
+  - name: pull ups
+    weight: 68.7 kg
+    sets: 2
+    reps: 5
+notes:
+  - very rushed session
+  - extremely low rest periods
