@@ -1,0 +1,29 @@
+date: 2015-04-23
+time: 6:00PM
+length: 2h
+bodyweight: 68.4 kg
+workout:
+  - name: low bar squats
+    weight: 245 lbs
+    sets: 1
+    reps: 3
+  - name: low bar squats
+    weight: 225 lbs
+    sets: 5
+    reps: 5
+  - name: bench press
+    weight: 160 lbs
+    sets: 6
+    reps: 5
+  - name: deficit conventional deadlift
+    weight: 275 lbs
+    sets: 5
+    reps: 1
+  - name: pull ups
+    weight: 68.4 kg
+    sets: 5
+    reps: 5
+notes:
+  - squats felt heavy and form very slightly off
+  - bench felt pretty good but could not concentrate properly
+  - went through the motions on deadlifts
