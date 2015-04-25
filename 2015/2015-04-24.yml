@@ -1,0 +1,10 @@
+date: 2015-04-24
+time: 6:00PM
+length: 30m
+bodyweight: 68.4 kg
+workout:
+  - name: overhead press
+    weight: 95 lbs
+    sets: 5
+    reps: 5
+notes:
