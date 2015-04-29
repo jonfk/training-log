@@ -1,0 +1,22 @@
+date: 2015-04-28
+time: 6:00PM
+length: 1h30m
+bodyweight: 68.4 kg
+workout:
+  - name: belted low bar squats
+    weight: 245 lbs
+    sets: 5
+    reps: 5
+    exertion: rpe 8
+  - name: bench press
+    weight: 160 lbs
+    sets: 5
+    reps: 5
+  - name: bent over rows
+    weight: 160 lbs
+    sets: 5
+    reps: 5
+notes:
+  - squats were very painful on my wrists
+  - numb feeling in wrists after squats
+  - very tiring after a work day
