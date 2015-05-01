@@ -47,6 +47,7 @@ notes:
 ###Pulling:
 - sumo deadlift
 - conventional deadlift
+- paused conventional deadlift
 - deficit conventional deadlift
 - stiff leg deadlift
 - block pulls
