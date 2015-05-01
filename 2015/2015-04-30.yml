@@ -1,0 +1,33 @@
+date: 2015-04-30
+time: 6:00PM
+length: 2h
+bodyweight: 67.6 kg
+workout:
+  - name: overhead press
+    weight: 95 lbs
+    sets: 6
+    reps: 5
+  - name: behind the neck press
+    weight: 65 lbs
+    sets: 3
+    reps: 8
+  - name: paused front squats
+    weight: 145 lbs
+    sets: 5
+    reps: 5
+  - name: close grip bench press
+    weight: 145 lbs
+    sets: 5
+    reps: 5
+  - name: paused conventional deadlift
+    weight: 225 lbs
+    sets: 3
+    reps: 3
+  - name: pull ups
+    weight: 67.6 kg
+    sets: 5
+    reps: 5
+notes:
+  - low concentration during overhead presses
+  - squats were easy enough and very close to regular front squats
+  - harder towards the end for deadlifts
