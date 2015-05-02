@@ -1,0 +1,38 @@
+date: 2015-05-02
+time: 10:00AM
+length: 3h
+bodyweight: 68.4 kg
+workout:
+  - name: belted low bar squats
+    weight: 265 lbs
+    sets: 3
+    reps: 5
+    exertion: rpe 10
+  - name: low bar squats
+    weight: 185 lbs
+    sets: 4
+    reps: 10
+  - name: bench press
+    weight: 165 lbs
+    sets: 6
+    reps: 5
+  - name: sumo deadlift
+    weight: 275 lbs
+    sets: 3
+    reps: 5
+  - name: sumo deadlift
+    weight: 225 lbs
+    sets: 3
+    reps: 7
+  - name: db incline press
+    weight: 45 lbs
+    sets: 3
+    reps: 10
+notes:
+  - squats were harder than expected
+  - previous night, slept late and drank moderately
+  - very dehydrated in the morning
+  - nauseous during squats and bench press
+  - lost concetration and fatigued during deadlifts
+  - tried to concentrate on form on sumo deadlifts on 225 lbs
+  - good advice from jason, keep back tight, spread knees and keep feet out
