@@ -1,0 +1,19 @@
+date: 2015-05-04
+time: 6:00AM
+length: 1h
+bodyweight: 68.4 kg
+workout:
+  - name: overhead press
+    weight: 95 lbs
+    sets: 7
+    reps: 5
+  - name: behind neck press
+    weight: 70 lbs
+    sets: 5
+    reps: 6
+  - name: db incline press
+    weight: 45 lbs
+    sets: 4
+    reps: 10
+notes:
+  - behind neck presses were harder than usual
