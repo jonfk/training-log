@@ -1,0 +1,24 @@
+date: 2015-05-05
+time: 6:00PM
+length: 1h
+bodyweight: 68.4 kg
+workout:
+  - name: high bar squats
+    weight: 205 lbs
+    sets: 3
+    reps: 8
+  - name: belted low bar squats
+    weight: 225 lbs
+    sets: 3
+    reps: 5
+  - name: bench press
+    weight: 160 lbs
+    sets: 5
+    reps: 5
+  - name: bent over rows
+    weight: 135 lbs
+    sets: 7
+    reps: 5
+notes:
+  - high bar squats were easy but low bar squats felt heavy
+  - bench press was harder than expected
