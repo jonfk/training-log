@@ -1,0 +1,26 @@
+date: 2015-05-07
+time: 6:00PM
+length: 2h
+bodyweight: 67.5 kg
+workout:
+  - name: overhead press
+    weight: 95 lbs
+    sets: 8
+    reps: 5
+    exertion: rpe 10
+  - name: front squats
+    weight: 165 lbs
+    sets: 3
+    reps: 5
+  - name: close grip bench press
+    weight: 130 lbs
+    sets: 5
+    reps: 8
+  - name: bent over rows
+    weight: 135 lbs
+    sets: 5
+    reps: 7
+notes:
+  - overhead presses felt pretty heavy but attempted 100lbs but failed on 3 reps
+  - front squats were much harder than usual
+  - shoulders and arms after front squats felt numb and weak
