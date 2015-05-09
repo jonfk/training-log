@@ -1,0 +1,35 @@
+date: 2015-05-09
+time: 10:30AM
+length: 3h
+bodyweight: 67.9 kg
+workout:
+  - name: sumo deadlift
+    weight: 245 lbs
+    sets: 3
+    reps: 5
+  - name: belted low bar squats
+    weight: 265 lbs
+    sets: 5
+    reps: 5
+  - name: bench press
+    weight: 155 lbs
+    sets: 8
+    reps: 5
+  - name: sumo deadlift
+    weight: 275 lbs
+    sets: 2
+    reps: 3
+  - name: bent over rows
+    weight: 135 lbs
+    sets: 6
+    reps: 5
+  - name: db incline press
+    weight: 45 lbs
+    sets: 5
+    reps: 10
+notes:
+  - Good session
+  - practiced sumo deadlifts form
+  - form on sumo deadlift was on point
+  - I was very warm during squats and had fatigued during every set
+  - super setted bent over rows and db incline press
