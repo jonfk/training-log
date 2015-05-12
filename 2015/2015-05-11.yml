@@ -1,0 +1,22 @@
+date: 2015-05-11
+time: 5:30PM
+length: 1h
+bodyweight: 68.9 kg
+workout:
+  - name: overhead press
+    weight: 95 lbs
+    sets: 8
+    reps: 5
+  - name: behind the neck press
+    weight: 70 lbs
+    sets: 3
+    reps: 8
+  - name: pull ups
+    weight: 68.9 kg
+    sets: 4
+    reps: 5
+notes:
+  - Good session
+  - overhead pressing was not as easy as expected
+  - session was not very hard
+  - didnt push enough
