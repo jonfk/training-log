@@ -1,0 +1,28 @@
+date: 2015-05-14
+time: 5:30PM
+length: 1h
+bodyweight: 68.0 kg
+workout:
+  - name: overhead press
+    weight: 100 lbs
+    sets: 8
+    reps: 3
+  - name: front squats
+    weight: 140 lbs
+    sets: 5
+    reps: 8
+  - name: close grip bench press
+    weight: 120 lbs
+    sets: 5
+    reps: 8
+  - name: bent over rows
+    weight: 140 lbs
+    sets: 5
+    reps: 5
+  - name: pull ups
+    weight: 68.0 kg
+    sets: 5
+    reps: 5
+notes:
+  - rushed session
+  - lower back already tired from furniture building
