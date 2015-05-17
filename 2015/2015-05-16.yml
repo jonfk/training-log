@@ -1,0 +1,43 @@
+date: 2015-05-16
+time: 10:30AM
+length: 3h
+bodyweight: 68.1 kg
+workout:
+  - name: sumo deadlift
+    weight: 245 lbs
+    sets: 3
+    reps: 5
+  - name: belted low bar squats
+    weight: 270 lbs
+    sets: 5
+    reps: 3
+  - name: low bar squats
+    weight: 185 lbs
+    sets: 5
+    reps: 8
+  - name: bench press
+    weight: 155 lbs
+    sets: 5
+    reps: 5
+  - name: sumo deadlift
+    weight: 225 lbs
+    sets: 3
+    reps: 5
+  - name: sumo deadlift
+    weight: 275 lbs
+    sets: 3
+    reps: 3
+  - name: bent over rows
+    weight: 135 lbs
+    sets: 5
+    reps: 5
+  - name: db incline press
+    weight: 45 lbs
+    sets: 5
+    reps: 10
+notes:
+  - not enough sleep previous night
+  - acutely felt lack of recovery
+  - was hungry because of insufficient food previous dinner
+  - bench press felt impossibly difficult
+  - deadlifts still feeling good but difficult on relatively moderate weight
