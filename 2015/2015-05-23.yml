@@ -1,0 +1,30 @@
+date: 2015-05-23
+time: 9:30AM
+length: 2h
+bodyweight: 67.5 kg
+workout:
+  - name: low bar squats
+    weight: 275 lbs
+    sets: 5
+    reps: 1  
+  - name: low bar squats
+    weight: 185 lbs
+    sets: 3
+    reps: 12
+  - name: bench press
+    weight: 165 lbs
+    sets: 5
+    reps: 5
+  - name: sumo deadlift
+    weight: 225 lbs
+    sets: 4
+    reps: 5
+  - name: sumo deadlift
+    weight: 275 lbs
+    sets: 1
+    reps: 3
+notes:
+  - lack of energy
+  - reduced volume
+  - forgot belt so did some singles instead
+  - deadlift still progressing slow
