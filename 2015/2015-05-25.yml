@@ -1,0 +1,25 @@
+date: 2015-05-25
+time: 5:30PM
+length: 1h
+bodyweight: 67.5 kg
+workout:
+  - name: overhead press
+    weight: 100 lbs
+    sets: 5
+    reps: 5
+  - name: behind the neck press
+    weight: 70 lbs
+    sets: 3
+    reps: 7
+  - name: db incline press
+    weight: 50 lbs
+    sets: 5
+    reps: 5
+  - name: bent over rows
+    weight: 135 lbs
+    sets: 7
+    reps: 5
+notes:
+  - normal session
+  - short enough rest periods
+  - wrists hurt on the db incline press
