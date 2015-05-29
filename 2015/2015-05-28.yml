@@ -1,0 +1,20 @@
+date: 2015-05-28
+time: 6:00PM
+length: 1h
+bodyweight: 66.8 kg
+workout:
+  - name: overhead press
+    weight: 100 lbs
+    sets: 5
+    reps: 5
+  - name: behind the neck press
+    weight: 65 lbs
+    sets: 5
+    reps: 8
+  - name: bent over rows
+    weight: 140 lbs
+    sets: 7
+    reps: 6
+notes:
+  - could not squat because forgot my clothes
+  - kept session pretty short
