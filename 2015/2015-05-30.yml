@@ -1,0 +1,33 @@
+date: 2015-05-30
+time: 9:30AM
+length: 3h
+bodyweight: 66.8 kg
+workout:
+  - name: belted low bar squats
+    weight: 270 lbs
+    sets: 2
+    reps: 3
+  - name: belted low bar squats
+    weight: 255 lbs
+    sets: 4
+    reps: 5
+  - name: low bar squats
+    weight: 195 lbs
+    sets: 3
+    reps: 8
+  - name: bench press
+    weight: 165 lbs
+    sets: 6
+    reps: 5
+  - name: sumo deadlift
+    weight: 245 lbs
+    sets: 3
+    reps: 5
+  - name: behind the neck press
+    weight: 55 lbs
+    sets: 3
+    reps: 8
+notes:
+  - squats felt very heavy
+  - reduced weight and did volume
+  - been losing weight over last week
