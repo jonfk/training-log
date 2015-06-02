@@ -1,0 +1,25 @@
+date: 2015-06-01
+time: 5:30PM
+length: 1h30m
+bodyweight: 66.8 kg
+workout:
+  - name: overhead press
+    weight: 100 lbs
+    sets: 3
+    reps: 5
+  - name: overhead press
+    weight: 100 lbs
+    sets: 2
+    reps: 4
+  - name: behind the neck press
+    weight: 70 lbs
+    sets: 5
+    reps: 6
+  - name: bent over rows
+    weight: 135 lbs
+    sets: 10
+    reps: 5
+notes:
+  - general feeling of tiredness
+  - stressed
+  - misgrooved overhead presses
