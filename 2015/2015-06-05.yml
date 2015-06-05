@@ -1,0 +1,25 @@
+date: 2015-06-05
+time: 5:30PM
+length: 1h30m
+bodyweight: 66.8 kg
+workout:
+  - name: overhead press
+    weight: 100 lbs
+    sets: 5
+    reps: 5
+  - name: behind the neck press
+    weight: 70 lbs
+    sets: 3
+    reps: 8
+  - name: front squats
+    weight: 155 lbs
+    sets: 3
+    reps: 3
+  - name: bent over rows
+    weight: 135 lbs
+    sets: 5
+    reps: 8
+notes:
+  - stressed
+  - tight back and shoulders
+  - lacking mobility because of skipping foam rolling and stretches
