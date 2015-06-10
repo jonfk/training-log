@@ -1,0 +1,26 @@
+date: 2015-06-09
+time: 5:30AM
+length: 2h
+bodyweight: 67.6 kg
+workout:
+  - name: low bar squats
+    weight: 245 lbs
+    sets: 4
+    reps: 3
+  - name: low bar squats
+    weight: 225 lbs
+    sets: 3
+    reps: 5
+  - name: bench press
+    weight: 165 lbs
+    sets: 4
+    reps: 5
+  - name: bent over rows
+    weight: 135 lbs
+    sets: 3
+    reps: 8
+notes:
+  - hard to push through
+  - once warm easier to push on squats
+  - tweaked left shoulder
+  - knot in left pec
