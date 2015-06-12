@@ -1,0 +1,33 @@
+date: 2015-06-11
+time: 5:30AM
+length: 1h30m
+bodyweight: 67.2 kg
+workout:
+  - name: overhead press
+    weight: 105 lbs
+    sets: 1
+    reps: 5
+  - name: overhead press
+    weight: 100 lbs
+    sets: 5
+    reps: 5
+  - name: behind the neck press
+    weight: 70 lbs
+    sets: 3
+    reps: 8
+  - name: front squats
+    weight: 145 lbs
+    sets: 5
+    reps: 5
+  - name: pull ups
+    weight: 67.2 kg
+    sets: 3
+    reps: 5
+  - name: bent over rows
+    weight: 135 lbs
+    sets: 5
+    reps: 5
+notes:
+  - good training day
+  - left shoulder still in pain, maybe pinched
+  - taking front squats slow and getting back into volume
