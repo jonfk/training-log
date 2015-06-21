@@ -1,5 +1,6 @@
 training-log
 ============
+[![Build Status](https://travis-ci.org/jonfk/training-log.svg)](https://travis-ci.org/jonfk/training-log)
 
 my training log in yaml format
 
