@@ -1,0 +1,14 @@
+language: go
+
+install:
+  - go get -u github.com/constabulary/gb/...
+  - go install github.com/constabulary/gb/...
+  - git clone https://github.com/jonfk/training-log-analysis.git
+  - cd training-log-analysis
+  - gb build
+
+before_script:
+
+script:
+  - cd $TRAVIS_BUILD_DIR
+  - $TRAVIS_BUILD_DIR/training-log-analysis/bin/validator -v 2014/ 2015/
