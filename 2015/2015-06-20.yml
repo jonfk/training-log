@@ -1,0 +1,36 @@
+date: 2015-06-20
+time: 9:00AM
+length: 4h
+bodyweight: 68.0 kg
+workout:
+  - name: belted low bar squats
+    weight: 270 lbs
+    sets: 7
+    reps: 3
+  - name: low bar squats
+    weight: 205 lbs
+    sets: 3
+    reps: 8
+  - name: bench press
+    weight: 165 lbs
+    sets: 5
+    reps: 5
+  - name: sumo deadlift
+    weight: 295 lbs
+    sets: 4
+    reps: 5
+  - name: db incline press
+    weight: 45 lbs
+    sets: 5
+    reps: 10
+  - name: lat pulldowns
+    weight: 135 lbs
+    sets: 4
+    reps: 8
+notes:
+  - good training day
+  - shoulder not bothering me too much
+  - squated for over 1h due to slow start and long warmup
+  - last set of deadlifts had form degradation
+  - bench was inconsistent
+  - db bench felt best yet
