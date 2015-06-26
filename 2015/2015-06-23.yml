@@ -1,0 +1,23 @@
+date: 2015-06-23
+time: 5:30PM
+length: 2h
+bodyweight: 68.0 kg
+workout:
+  - name: low bar squats
+    weight: 250 lbs
+    sets: 3
+    reps: 5
+  - name: bench press
+    weight: 160 lbs
+    sets: 5
+    reps: 5
+  - name: bent over rows
+    weight: 140 lbs
+    sets: 8
+    reps: 5
+  - name: lat pulldowns
+    weight: 135 lbs
+    sets: 4
+    reps: 8
+notes:
+  - decent day
