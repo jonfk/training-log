@@ -1,0 +1,47 @@
+date: 2015-06-27
+time: 10:30AM
+length: 3h
+bodyweight: 68.4 kg
+workout:
+  - name: belted low bar squats
+    weight: 275 lbs
+    sets: 7
+    reps: 3
+  - name: low bar squats
+    weight: 205 lbs
+    sets: 3
+    reps: 8
+  - name: bench press
+    weight: 160 lbs
+    sets: 5
+    reps: 5
+  - name: sumo deadlift
+    weight: 295 lbs
+    sets: 1
+    reps: 5
+  - name: sumo deadlift
+    weight: 275 lbs
+    sets: 2
+    reps: 5
+  - name: sumo deadlift
+    weight: 225 lbs
+    sets: 2
+    reps: 5
+  - name: db incline press
+    weight: 45 lbs
+    sets: 5
+    reps: 10
+  - name: lat pulldowns
+    weight: 135 lbs
+    sets: 4
+    reps: 8
+  - name: db flyes
+    weight: 30 lbs
+    sets: 3
+    reps: 10
+notes:
+  - good training day
+  - back still sore
+  - shoulders were very stiff
+  - very fatigued after squats
+  - form on sumo work in progress
