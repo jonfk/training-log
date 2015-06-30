@@ -1,0 +1,18 @@
+date: 2015-06-30
+time: 5:30PM
+length: 45m
+bodyweight: 67.5 kg
+workout:
+  - name: low bar squats
+    weight: 245 lbs
+    sets: 3
+    reps: 3
+  - name: bench press
+    weight: 135 lbs
+    sets: 3
+    reps: 10
+notes:
+  - bad training day
+  - did not eat until 4:00PM
+  - felt very tired before attempting any weight
+  - decided to deload
