@@ -1,0 +1,19 @@
+date: 2015-07-03
+time: 11:30PM
+length: 30m
+bodyweight: 67.0 kg
+workout:
+  - name: lat pulldowns
+    weight: 115 lbs
+    sets: 3
+    reps: 8
+  - name: pull ups
+    weight: 67.2 kg
+    sets: 3
+    reps: 5
+  - name: incline bench press
+    weight: 115 lbs
+    sets: 8
+    reps: 5
+notes:
+  - quick and light training at lunch
