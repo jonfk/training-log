@@ -1,0 +1,28 @@
+date: 2015-07-04
+time: 10:30AM
+length: 4h
+bodyweight: 67.3 kg
+workout:
+  - name: sumo deadlift
+    weight: 275 lbs
+    sets: 12
+    reps: 3
+  - name: bench press
+    weight: 155 lbs
+    sets: 7
+    reps: 6
+  - name: belted low bar squats
+    weight: 280 lbs
+    sets: 3
+    reps: 3
+  - name: db incline press
+    weight: 45 lbs
+    sets: 5
+    reps: 9
+notes:
+  - bad training day
+  - deadlifts had decent form
+  - deadlifts move very slowly but pushed through
+  - lack of motivation until the rest of the crew showed up
+  - note that people can play an important role in getting hyped up
+  - squats were not affected by deadlifts after bench
