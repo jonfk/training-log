@@ -1,0 +1,37 @@
+date: 2015-07-06
+time: 6:30PM
+length: 1h
+bodyweight: 68.0 kg
+workout:
+  - name: pull ups
+    weight: 68.0 kg
+    sets: 5
+    reps: 5
+  - name: incline bench press
+    weight: 115 lbs
+    sets: 8
+    reps: 5
+  - name: db press
+    weight: 40 lbs
+    sets: 5
+    reps: 8
+  - name: bench press
+    weight: 135 lbs
+    sets: 5
+    reps: 8
+  - name: close grip bench press
+    weight: 95 lbs
+    sets: 5
+    reps: 10
+  - name: incline bench press
+    weight: 95 lbs
+    sets: 5
+    reps: 8
+  - name: db rows
+    weight: 45 lbs
+    sets: 5
+    reps: 10
+notes:
+  - normal training day
+  - first day of new program upper lower
+  - did exercises 0 and 1 during lunch break
