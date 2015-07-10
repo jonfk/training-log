@@ -1,0 +1,20 @@
+date: 2015-07-09
+time: 12:00PM
+length: 1h
+bodyweight: 68.0 kg
+workout:
+  - name: low bar squats
+    weight: 225 lbs
+    sets: 5
+    reps: 5
+  - name: overhead press
+    weight: 95 lbs
+    sets: 5
+    reps: 5
+  - name: seated rows
+    weight: 100 lbs
+    sets: 5
+    reps: 10
+notes:
+  - lunch break training
+  - squats for 30m
