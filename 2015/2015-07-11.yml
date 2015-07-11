@@ -1,0 +1,33 @@
+date: 2015-07-11
+time: 12:00PM
+length: 1h
+bodyweight: 67.4 kg
+workout:
+  - name: sumo deadlift
+    weight: 275 lbs
+    sets: 3
+    reps: 5
+  - name: bench press
+    weight: 155 lbs
+    sets: 5
+    reps: 5
+  - name: close grip bench press
+    weight: 95 lbs
+    sets: 5
+    reps: 8
+  - name: seated rows
+    weight: 100 lbs
+    sets: 5
+    reps: 10
+  - name: incline bench press
+    weight: 115 lbs
+    sets: 5
+    reps: 8
+  - name: lat pulldowns
+    weight: 130 lbs
+    sets: 5
+    reps: 8
+notes:
+  - lunch break training
+  - and last 2 exercises after work
+  - feet sore
