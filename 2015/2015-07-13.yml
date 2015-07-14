@@ -1,0 +1,36 @@
+date: 2015-07-13
+time: 12:00PM
+length: 2h
+bodyweight: 67.5 kg
+workout:
+  - name: overhead press
+    weight: 100 lbs
+    sets: 5
+    reps: 5
+  - name: behind the neck press
+    weight: 80 lbs
+    sets: 3
+    reps: 8
+  - name: bench press
+    weight: 160 lbs
+    sets: 5
+    reps: 5
+  - name: close grip bench press
+    weight: 115 lbs
+    sets: 5
+    reps: 10
+  - name: incline bench press
+    weight: 115 lbs
+    sets: 5
+    reps: 5
+  - name: pull ups
+    weight: 67.5 kg
+    sets: 3
+    reps: 5
+  - name: lat pulldowns
+    weight: 115 lbs
+    sets: 3
+    reps: 10
+notes:
+  - exercises 0 and 1 are were at lunch
+  - not enough calories during the day
