@@ -1,0 +1,30 @@
+date: 2015-07-14
+time: 6:30PM
+length: 2h
+bodyweight: 67.5 kg
+workout:
+  - name: pull ups
+    weight: 67.5 kg
+    sets: 5
+    reps: 5
+  - name: incline bench press
+    weight: 115 lbs
+    sets: 5
+    reps: 8
+  - name: low bar squats
+    weight: 245 lbs
+    sets: 1
+    reps: 3
+  - name: low bar squats
+    weight: 225 lbs
+    sets: 5
+    reps: 5
+  - name: paused front squats
+    weight: 135 lbs
+    sets: 5
+    reps: 5
+notes:
+  - did exercises 0 and 1 during lunch break
+  - bad training day
+  - hips tight
+  - squats were uneven
