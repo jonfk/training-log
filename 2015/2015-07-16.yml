@@ -1,0 +1,28 @@
+date: 2015-07-16
+time: 12:00PM
+length: 30m
+bodyweight: 67.5 kg
+workout:
+  - name: bench press
+    weight: 160 lbs
+    sets: 5
+    reps: 5
+  - name: bench press
+    weight: 135 lbs
+    sets: 3
+    reps: 10
+  - name: incline bench press
+    weight: 95 lbs
+    sets: 5
+    reps: 5
+  - name: pull ups
+    weight: 67.5 kg
+    sets: 5
+    reps: 5
+  - name: lat pulldowns
+    weight: 115 lbs
+    sets: 3
+    reps: 10
+notes:
+  - shoulders feel creaky
+  - still sore from squats
