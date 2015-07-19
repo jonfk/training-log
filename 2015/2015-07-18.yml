@@ -1,0 +1,40 @@
+date: 2015-07-18
+time: 2:00PM
+length: 2h30m
+bodyweight: 68.0 kg
+workout:
+  - name: sumo deadlift
+    weight: 275 lbs
+    sets: 5
+    reps: 5
+  - name: sumo deadlift
+    weight: 295 lbs
+    sets: 3
+    reps: 3
+  - name: sumo deadlift
+    weight: 305 lbs
+    sets: 5
+    reps: 3
+  - name: belted low bar squats
+    weight: 275 lbs
+    sets: 4
+    reps: 1
+  - name: low bar squats
+    weight: 185 lbs
+    sets: 4
+    reps: 8
+  - name: db incline press
+    weight: 45 lbs
+    sets: 5
+    reps: 8
+  - name: db rows
+    weight: 45 lbs
+    sets: 5
+    reps: 10
+  - name: lat pulldowns
+    weight: 120 lbs
+    sets: 5
+    reps: 10
+notes:
+  - fucked up my knee
+  - good training day
