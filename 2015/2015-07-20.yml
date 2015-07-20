@@ -1,0 +1,18 @@
+date: 2015-07-20
+time: 12:00PM
+length: 30m
+bodyweight: 68.0 kg
+workout:
+  - name: incline bench press
+    weight: 115 lbs
+    sets: 5
+    reps: 8
+  - name: bench press
+    weight: 160 lbs
+    sets: 5
+    reps: 5
+  - name: pull ups
+    weight: 67.5 kg
+    sets: 3
+    reps: 5
+notes:
