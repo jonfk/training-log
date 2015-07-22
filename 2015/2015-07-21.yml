@@ -1,0 +1,35 @@
+date: 2015-07-21
+time: 6:00PM
+length: 1h30m
+bodyweight: 67.5 kg
+workout:
+  - name: pull ups
+    weight: 67.5 kg
+    sets: 5
+    reps: 5
+  - name: lat pulldowns
+    weight: 115 lbs
+    sets: 5
+    reps: 10
+  - name: incline bench press
+    weight: 115 lbs
+    sets: 5
+    reps: 8
+  - name: low bar squats
+    weight: 245 lbs
+    sets: 3
+    reps: 3
+  - name: snatch grip deadlift
+    weight: 135 lbs
+    sets: 5
+    reps: 5
+  - name: bench press
+    weight: 135 lbs
+    sets: 5
+    reps: 10
+  - name: seated rows
+    weight: 100 lbs
+    sets: 5
+    reps: 10
+notes:
+  - knee still hurts

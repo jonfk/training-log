@@ -1,0 +1,15 @@
+date: 2015-07-15
+time: 12:00PM
+length: 20m
+bodyweight: 67.8 kg
+workout:
+  - name: bent over rows
+    weight: 135 lbs
+    sets: 5
+    reps: 8
+  - name: lat pulldowns
+    weight: 115 lbs
+    sets: 3
+    reps: 10
+notes:
+  - lunch training
