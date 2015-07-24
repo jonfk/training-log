@@ -1,0 +1,32 @@
+date: 2015-07-23
+time: 6:00PM
+length: 2h
+bodyweight: 68.4 kg
+workout:
+  - name: pull ups
+    weight: 68.4 kg
+    sets: 5
+    reps: 6
+  - name: overhead press
+    weight: 100 lbs
+    sets: 5
+    reps: 5
+  - name: behind the neck press
+    weight: 70 lbs
+    sets: 5
+    reps: 8
+  - name: bench press
+    weight: 165 lbs
+    sets: 5
+    reps: 5
+  - name: close grip bench press
+    weight: 120 lbs
+    sets: 3
+    reps: 10
+  - name: incline bench press
+    weight: 125 lbs
+    sets: 5
+    reps: 5
+notes:
+  - shoulders felt creaky and stiff
+  - knee still hurts
