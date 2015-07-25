@@ -1,0 +1,21 @@
+date: 2015-07-25
+time: 11:00AM
+length: 2h
+bodyweight: 68.6 kg
+workout:
+  - name: sumo deadlift
+    weight: 295 lbs
+    sets: 8
+    reps: 3
+  - name: paused sumo deadlift
+    weight: 225 lbs
+    sets: 5
+    reps: 5
+  - name: low bar squats
+    weight: 135 lbs
+    sets: 3
+    reps: 5
+notes:
+  - knee still hurts
+  - problem is from calf. Not a joint problem
+  - deadlifts moving fairly slow
