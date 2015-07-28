@@ -1,0 +1,23 @@
+date: 2015-07-27
+time: 12:00PM
+length: 1h
+bodyweight: 68.0 kg
+workout:
+  - name: bench press
+    weight: 165 lbs
+    sets: 5
+    reps: 5
+  - name: close grip bench press
+    weight: 125 lbs
+    sets: 5
+    reps: 10
+  - name: incline bench press
+    weight: 115 lbs
+    sets: 5
+    reps: 10
+  - name: seated rows
+    weight: 100 lbs
+    sets: 5
+    reps: 15
+notes:
+  - knee still hurts when putting weight on it
