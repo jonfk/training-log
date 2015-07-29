@@ -1,0 +1,22 @@
+date: 2015-07-28
+time: 12:00PM
+length: 1h
+bodyweight: 67.5 kg
+workout:
+  - name: pull ups
+    weight: 67.5 kg
+    sets: 5
+    reps: 6
+  - name: incline bench press
+    weight: 125 lbs
+    sets: 5
+    reps: 6
+  - name: lat pulldowns
+    weight: 115 lbs
+    sets: 4
+    reps: 10
+  - name: tricep pushdowns
+    weight: 80 lbs
+    sets: 5
+    reps: 10
+notes:
