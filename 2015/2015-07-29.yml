@@ -1,0 +1,25 @@
+date: 2015-07-29
+time: 6:00PM
+length: 1h30m
+bodyweight: 67.5 kg
+workout:
+  - name: pull ups
+    weight: 67.5 kg
+    sets: 5
+    reps: 6
+  - name: bench press
+    weight: 155 lbs
+    sets: 3
+    reps: 5
+  - name: belted low bar squats
+    weight: 275 lbs
+    sets: 1
+    reps: 2
+  - name: belted low bar squats
+    weight: 245 lbs
+    sets: 5
+    reps: 5
+notes:
+  - knee did not hurt during squats
+  - squats felt very hard
+  - squat form a bit off
