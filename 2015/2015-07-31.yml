@@ -1,0 +1,33 @@
+date: 2015-07-31
+time: 5:30PM
+length: 1h
+bodyweight: 67.5 kg
+workout:
+  - name: overhead press
+    weight: 105 lbs
+    sets: 1
+    reps: 5
+  - name: overhead press
+    weight: 100 lbs
+    sets: 5
+    reps: 5
+  - name: pull ups
+    weight: 67.5 kg
+    sets: 5
+    reps: 6
+  - name: bench press
+    weight: 165 lbs
+    sets: 5
+    reps: 5
+  - name: close grip bench press
+    weight: 135 lbs
+    sets: 5
+    reps: 5
+  - name: db rows
+    weight: 50 lbs
+    sets: 5
+    reps: 10
+notes:
+  - first 3 exercises were done at lunch in 30m
+  - still sore from squats
+  - too little squat frequency?
