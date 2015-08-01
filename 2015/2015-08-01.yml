@@ -1,0 +1,36 @@
+date: 2015-08-01
+time: 11:00AM
+length: 4h
+bodyweight: 67.7 kg
+workout:
+  - name: sumo deadlift
+    weight: 295 lbs
+    sets: 5
+    reps: 3
+  - name: sumo deadlift
+    weight: 305 lbs
+    sets: 5
+    reps: 3
+  - name: paused sumo deadlift
+    weight: 225 lbs
+    sets: 5
+    reps: 5
+  - name: snatch grip deadlift
+    weight: 155 lbs
+    sets: 3
+    reps: 10
+  - name: db press
+    weight: 40 lbs
+    sets: 5
+    reps: 8
+  - name: db rows
+    weight: 50 lbs
+    sets: 5
+    reps: 10
+  - name: seated rows
+    weight: 120 lbs
+    sets: 3
+    reps: 10
+notes:
+  - deadlifts felt heavy and slow
+  - very fatigued
