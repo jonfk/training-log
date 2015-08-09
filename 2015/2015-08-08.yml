@@ -1,0 +1,49 @@
+date: 2015-08-08
+time: 12:00PM
+length: 4h
+bodyweight: 68.2 kg
+workout:
+  - name: sumo deadlift
+    weight: 315 lbs
+    sets: 7
+    reps: 3
+  - name: paused sumo deadlift
+    weight: 225 lbs
+    sets: 5
+    reps: 5
+  - name: bench press
+    weight: 170 lbs
+    sets: 3
+    reps: 5
+  - name: low bar squats
+    weight: 185 lbs
+    sets: 2
+    reps: 5
+  - name: low bar squats
+    weight: 205 lbs
+    sets: 2
+    reps: 5
+  - name: low bar squats
+    weight: 225 lbs
+    sets: 3
+    reps: 5
+  - name: db incline press
+    weight: 50 lbs
+    sets: 5
+    reps: 10
+  - name: db rows
+    weight: 50 lbs
+    sets: 2
+    reps: 10
+  - name: db rows
+    weight: 55 lbs
+    sets: 3
+    reps: 10
+  - name: snatch grip deadlift
+    weight: 145 lbs
+    sets: 2
+    reps: 10
+notes:
+  - good training day
+  - did some light squats to add frequency to me squat sessions
+  - deadlift form were ok but still a work in progress
