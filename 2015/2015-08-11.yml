@@ -1,0 +1,36 @@
+date: 2015-08-11
+time: 5:30PM
+length: 1h30m
+bodyweight: 68.0 kg
+workout:
+  - name: pull ups
+    weight: 68.0 kg
+    sets: 5
+    reps: 5
+  - name: db press
+    weight: 45 lbs
+    sets: 5
+    reps: 8
+  - name: db incline press
+    weight: 50 lbs
+    sets: 5
+    reps: 10
+  - name: lat pulldowns
+    weight: 115 lbs
+    sets: 3
+    reps: 10
+  - name: belted low bar squats
+    weight: 245 lbs
+    sets: 1
+    reps: 1
+  - name: belted low bar squats
+    weight: 225 lbs
+    sets: 6
+    reps: 5
+  - name: front squats
+    weight: 155 lbs
+    sets: 5
+    reps: 5
+notes:
+  - weak squats
+  - very fatigued
