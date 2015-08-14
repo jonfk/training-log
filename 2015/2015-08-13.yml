@@ -1,0 +1,25 @@
+date: 2015-08-13
+time: 5:30PM
+length: 1h30m
+bodyweight: 67.8 kg
+workout:
+  - name: pull ups
+    weight: 67.8 kg
+    sets: 5
+    reps: 7
+  - name: sumo deadlift
+    weight: 275 lbs
+    sets: 5
+    reps: 3
+  - name: pull ups
+    weight: 67.8 kg
+    sets: 5
+    reps: 7
+  - name: conventional deadlift
+    weight: 225 lbs
+    sets: 3
+    reps: 5
+notes:
+  - deadlifts were probably done at a deficit
+  - felt pretty heavy
+  - my knees hurt
