@@ -1,0 +1,16 @@
+date: 2015-08-21
+time: 5:30PM
+length: 30m
+bodyweight: 67.0 kg
+workout:
+  - name: pull ups
+    weight: 67.0 kg
+    sets: 3
+    reps: 7
+  - name: bench press
+    weight: 155 lbs
+    sets: 3
+    reps: 5
+notes:
+  - sick since the 18th Aug
+  - quick and short session
