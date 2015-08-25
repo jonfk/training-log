@@ -1,0 +1,24 @@
+date: 2015-08-22
+time: 11:30AM
+length: 3h30m
+bodyweight: 67.1 kg
+workout:
+  - name: pull ups
+    weight: 67.1 kg
+    sets: 5
+    reps: 7
+  - name: bench press
+    weight: 170 lbs
+    sets: 7
+    reps: 3
+  - name: incline bench press
+    weight: 120 lbs
+    sets: 5
+    reps: 8
+  - name: db rows
+    weight: 50 lbs
+    sets: 5
+    reps: 10
+notes:
+  - still sick
+  - short low exertion
