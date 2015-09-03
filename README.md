@@ -64,6 +64,8 @@ notes:
 
 ###Arms:
 - alternating db curls
+- tricep pushdowns
+- lateral raises
 
 ##Time Format
 Date should be in yyyy-mm-dd.
