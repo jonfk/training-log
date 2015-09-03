@@ -19,4 +19,8 @@ workout:
     weight: 55 lbs
     sets: 5
     reps: 10
+  - name: lateral raises
+    weight: 15 lbs
+    sets: 5
+    reps: 10
 notes:
