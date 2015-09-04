@@ -1,0 +1,18 @@
+date: 2015-09-03
+time: 12:00PM
+length: 30m
+bodyweight: 67.5 kg
+workout:
+  - name: pull ups
+    weight: 67.5 kg
+    sets: 5
+    reps: 7
+  - name: low bar squats
+    weight: 185 lbs
+    sets: 1
+    reps: 5
+  - name: low bar squats
+    weight: 205 lbs
+    sets: 1
+    reps: 5
+notes:
