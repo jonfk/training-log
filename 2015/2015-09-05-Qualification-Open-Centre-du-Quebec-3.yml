@@ -1,0 +1,50 @@
+date: 2015-09-05
+time: 12:00PM
+length: 3h
+bodyweight: 66.5kg
+event:
+  name: Qualification Open Centre-du-Québec 3
+  wilks: 288.75
+  total: 370.0 kg
+workout:
+  - name: belted low bar squats
+    weight: 115 kg
+    sets: 1
+    reps: 1
+  - name: belted low bar squats
+    weight: 122.5 kg
+    sets: 1
+    reps: 1
+  - name: belted low bar squats
+    weight: 127.5 kg
+    sets: 1
+    reps: 1
+  - name: bench press
+    weight: 72.5 kg
+    sets: 1
+    reps: 1
+  - name: bench press
+    weight: 80.0 kg
+    sets: 1
+    reps: 1
+  - name: bench press
+    weight: 85.0 kg
+    sets: 1
+    reps: 1
+  - name: sumo deadlift
+    weight: 137.5 kg
+    sets: 1
+    reps: 1
+  - name: sumo deadlift
+    weight: 145.0 kg
+    sets: 1
+    reps: 1
+  - name: sumo deadlift
+    weight: 157.5 kg
+    sets: 1
+    reps: 1
+notes:
+  - was tired through the meet
+  - caffeine was the saving grace for my energy
+  - should have drank more
+  - could have fit more food in during rests
