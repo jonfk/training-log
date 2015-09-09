@@ -1,0 +1,19 @@
+date: 2015-09-08
+time: 09:00PM
+length: 1h30m
+bodyweight: 67.5 kg
+workout:
+  - name: pull ups
+    weight: 67.5 kg
+    sets: 3
+    reps: 7
+  - name: bench press
+    weight: 155 lbs
+    sets: 5
+    reps: 5
+  - name: low bar squats
+    weight: 225 lbs
+    sets: 5
+    reps: 5
+notes:
+  - back to volume
