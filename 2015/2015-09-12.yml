@@ -1,0 +1,22 @@
+date: 2015-09-12
+time: 10:30AM
+length: 3h
+bodyweight: 69.3 kg
+workout:
+  - name: sumo deadlift
+    weight: 315 lbs
+    sets: 4
+    reps: 4
+  - name: bench press
+    weight: 177 lbs
+    sets: 5
+    reps: 5
+  - name: low bar squats
+    weight: 205 lbs
+    sets: 3
+    reps: 5
+  - name: db rows
+    weight: 55 lbs
+    sets: 5
+    reps: 10
+notes:
