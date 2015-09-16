@@ -1,0 +1,24 @@
+date: 2015-09-15
+time: 5:30PM
+length: 1h30m
+bodyweight: 67.5 kg
+workout:
+  - name: overhead press
+    weight: 105 lbs
+    sets: 5
+    reps: 5
+  - name: tricep pushdowns
+    weight: 30 lbs
+    sets: 5
+    reps: 10
+  - name: belted low bar squats
+    weight: 235 lbs
+    sets: 5
+    reps: 5
+  - name: front squats
+    weight: 145 lbs
+    sets: 5
+    reps: 5
+notes:
+  - felt sleepy
+  - hard to push through but easy weight
