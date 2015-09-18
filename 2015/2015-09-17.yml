@@ -1,0 +1,22 @@
+date: 2015-09-17
+time: 5:30PM
+length: 1h
+bodyweight: 67.5 kg
+workout:
+  - name: pull ups
+    weight: 67.5 kg
+    sets: 5
+    reps: 7
+  - name: bench press
+    weight: 175 lbs
+    sets: 5
+    reps: 5
+  - name: db rows
+    weight: 55 lbs
+    sets: 5
+    reps: 10
+  - name: lateral raises
+    weight: 15 lbs
+    sets: 3
+    reps: 12
+notes:
