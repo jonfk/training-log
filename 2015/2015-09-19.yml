@@ -1,0 +1,39 @@
+date: 2015-09-19
+time: 5:30PM
+length: 1h
+bodyweight: 67.9 kg
+workout:
+  - name: sumo deadlift
+    weight: 315 lbs
+    sets: 1
+    reps: 5
+  - name: sumo deadlift
+    weight: 315 lbs
+    sets: 2
+    reps: 3
+  - name: paused sumo deadlift
+    weight: 275 lbs
+    sets: 5
+    reps: 5
+  - name: bench press
+    weight: 180 lbs
+    sets: 1
+    reps: 5
+  - name: bench press
+    weight: 185 lbs
+    sets: 3
+    reps: 5
+  - name: belted low bar squats
+    weight: 235 lbs
+    sets: 3
+    reps: 5
+  - name: leg press
+    weight: 270 lbs
+    sets: 5
+    reps: 8
+  - name: db rows
+    weight: 55 lbs
+    sets: 5
+    reps: 10
+notes:
+  - deadlifts form totally off today
