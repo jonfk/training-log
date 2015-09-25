@@ -1,0 +1,25 @@
+date: 2015-09-24
+time: 7:30PM
+length: 1h30m
+bodyweight: 68.1 kg
+workout:
+  - name: bench press
+    weight: 180 lbs
+    sets: 4
+    reps: 5
+  - name: bench press
+    weight: 180 lbs
+    sets: 1
+    reps: 4
+  - name: lateral raises
+    weight: 15 lbs
+    sets: 5
+    reps: 10
+  - name: belted low bar squats
+    weight: 245 lbs
+    sets: 4
+    reps: 5
+notes:
+  - not feeling recovered
+  - not enough sleep
+  - left knee hurts on the patella
