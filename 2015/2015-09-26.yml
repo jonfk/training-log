@@ -1,0 +1,35 @@
+date: 2015-09-26
+time: 11:30AM
+length: 3h30m
+bodyweight: 68.2 kg
+workout:
+  - name: sumo deadlift
+    weight: 275 lbs
+    sets: 1
+    reps: 5
+  - name: sumo deadlift
+    weight: 295 lbs
+    sets: 2
+    reps: 3
+  - name: sumo deadlift
+    weight: 225 lbs
+    sets: 3
+    reps: 5
+  - name: bench press
+    weight: 185 lbs
+    sets: 5
+    reps: 5
+  - name: low bar squats
+    weight: 185 lbs
+    sets: 5
+    reps: 5
+  - name: bent over rows
+    weight: 135 lbs
+    sets: 3
+    reps: 10
+notes:
+  - hung over
+  - dehydrated
+  - felt like throwing up
+  - caffeine was not felt very strongly
+  - bench press felt good
