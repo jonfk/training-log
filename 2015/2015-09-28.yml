@@ -1,0 +1,24 @@
+date: 2015-09-28
+time: 5:30PM
+length: 1h30m
+bodyweight: 68.2 kg
+workout:
+  - name: pull ups
+    weight: 68.2 kg
+    sets: 5
+    reps: 7
+  - name: bench press
+    weight: 185 lbs
+    sets: 3
+    reps: 5
+  - name: stiff leg deadlift
+    weight: 135 lbs
+    sets: 5
+    reps: 10
+  - name: bent over rows
+    weight: 135 lbs
+    sets: 3
+    reps: 10
+notes:
+  - mental block on bench press
+  - stiff leg deadlifts were felt more in right leg than left
