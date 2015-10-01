@@ -1,0 +1,26 @@
+date: 2015-09-30
+time: 12:30PM
+length: 1h
+bodyweight: 68.2 kg
+workout:
+  - name: pull ups
+    weight: 68.2 kg
+    sets: 5
+    reps: 7
+  - name: bench press
+    weight: 185 lbs
+    sets: 4
+    reps: 3
+  - name: incline bench press
+    weight: 115 lbs
+    sets: 3
+    reps: 8
+  - name: bent over rows
+    weight: 135 lbs
+    sets: 5
+    reps: 10
+notes:
+  - hammies still stiff and sore
+  - bench press mental block to do volume
+  - still very fatigued for upper body
+  - did bench press paused
