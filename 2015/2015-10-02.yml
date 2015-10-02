@@ -1,0 +1,30 @@
+date: 2015-10-02
+time: 12:30PM
+length: 1h
+bodyweight: 67.5 kg
+workout:
+  - name: pull ups
+    weight: 67.5 kg
+    sets: 5
+    reps: 7
+  - name: incline bench press
+    weight: 135 lbs
+    sets: 5
+    reps: 5
+  - name: incline bench press
+    weight: 135 lbs
+    sets: 1
+    reps: 8
+  - name: lat pulldowns
+    weight: 115 lbs
+    sets: 5
+    reps: 10
+  - name: lateral raises
+    weight: 15 lbs
+    sets: 5
+    reps: 10
+  - name: db rows
+    weight: 60 lbs
+    sets: 5
+    reps: 10
+notes:
