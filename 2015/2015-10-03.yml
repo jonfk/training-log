@@ -1,0 +1,36 @@
+date: 2015-10-03
+time: 11:00AM
+length: 3h
+bodyweight: 67.5 kg
+workout:
+  - name: sumo deadlift
+    weight: 315 lbs
+    sets: 3
+    reps: 5
+  - name: bench press
+    weight: 195 lbs
+    sets: 1
+    reps: 1
+  - name: bench press
+    weight: 205 lbs
+    sets: 1
+    reps: 1
+  - name: bench press
+    weight: 185 lbs
+    sets: 4
+    reps: 3
+  - name: bent over rows
+    weight: 135 lbs
+    sets: 5
+    reps: 10
+  - name: leg press
+    weight: 270 lbs
+    sets: 5
+    reps: 8
+  - name: stiff leg deadlift
+    weight: 150 lbs
+    sets: 5
+    reps: 10
+notes:
+  - good training day
+  - felt good
