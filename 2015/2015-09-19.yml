@@ -15,11 +15,11 @@ workout:
     weight: 275 lbs
     sets: 5
     reps: 5
-  - name: bench press
+  - name: tng bench press
     weight: 180 lbs
     sets: 1
     reps: 5
-  - name: bench press
+  - name: tng bench press
     weight: 185 lbs
     sets: 3
     reps: 5
