@@ -1,0 +1,44 @@
+date: 2015-10-06
+time: 5:30PM
+length: 1h30m
+bodyweight: 68.1 kg
+workout:
+  - name: overhead press
+    weight: 105 lbs
+    sets: 2
+    reps: 5
+  - name: overhead press
+    weight: 105 lbs
+    sets: 2
+    reps: 4
+  - name: overhead press
+    weight: 105 lbs
+    sets: 1
+    reps: 3
+  - name: db press
+    weight: 45 lbs
+    sets: 5
+    reps: 8
+  - name: skull crushers
+    weight: 40 lbs
+    sets: 3
+    reps: 12
+  - name: db rows
+    weight: 60 lbs
+    sets: 2
+    reps: 10
+  - name: belted low bar squats
+    weight: 250 lbs
+    sets: 3
+    reps: 5
+  - name: lateral raises
+    weight: 15 lbs
+    sets: 5
+    reps: 15
+notes:
+  - feeling sick
+  - light fever
+  - sore throat
+  - tired
+  - fatigued
+  - squats felt easy enough
