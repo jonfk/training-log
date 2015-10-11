@@ -1,0 +1,26 @@
+date: 2015-10-10
+time: 11:00AM
+length: 2h30m
+bodyweight: 66.8 kg
+workout:
+  - name: sumo deadlift
+    weight: 325 lbs
+    sets: 2
+    reps: 3
+  - name: bench press
+    weight: 185 lbs
+    sets: 3
+    reps: 3
+  - name: bent over rows
+    weight: 135 lbs
+    sets: 5
+    reps: 10
+  - name: skull crushers
+    weight: 50 lbs
+    sets: 5
+    reps: 10
+notes:
+  - very sick
+  - decent training day
+  - very tired
+  - no volume
