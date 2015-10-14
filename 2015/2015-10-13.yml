@@ -1,0 +1,29 @@
+date: 2015-10-13
+time: 5:30PM
+length: 1h30m
+bodyweight: 67.8 kg
+workout:
+  - name: pull ups
+    weight: 67.8 kg
+    sets: 5
+    reps: 7
+  - name: tng bench press
+    weight: 175 lbs
+    sets: 5
+    reps: 5
+  - name: belted low bar squats
+    weight: 250 lbs
+    sets: 3
+    reps: 5
+  - name: front squats
+    weight: 155 lbs
+    sets: 3
+    reps: 5
+  - name: romanian deadlift
+    weight: 155 lbs
+    sets: 5
+    reps: 10
+notes:
+  - not as sick anymore
+  - still tired
+  - low volume
