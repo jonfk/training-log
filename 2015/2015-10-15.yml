@@ -1,0 +1,26 @@
+date: 2015-10-15
+time: 5:30PM
+length: 1h30m
+bodyweight: 67.9 kg
+workout:
+  - name: pull ups
+    weight: 67.9 kg
+    sets: 5
+    reps: 7
+  - name: tng bench press
+    weight: 175 lbs
+    sets: 5
+    reps: 5
+  - name: belted low bar squats
+    weight: 250 lbs
+    sets: 3
+    reps: 5
+  - name: front squats
+    weight: 145 lbs
+    sets: 3
+    reps: 5
+  - name: bent over rows
+    weight: 135 lbs
+    sets: 5
+    reps: 10
+notes:
