@@ -1,0 +1,31 @@
+date: 2015-10-17
+time: 11:00PM
+length: 3h30m
+bodyweight: 69.0 kg
+workout:
+  - name: sumo deadlift
+    weight: 315 lbs
+    sets: 1
+    reps: 5
+  - name: sumo deadlift
+    weight: 325 lbs
+    sets: 3
+    reps: 5
+  - name: bench press
+    weight: 185 lbs
+    sets: 5
+    reps: 3
+  - name: low bar squats
+    weight: 225 lbs
+    sets: 3
+    reps: 5
+  - name: romanian deadlift
+    weight: 155 lbs
+    sets: 5
+    reps: 10
+  - name: bent over rows
+    weight: 135 lbs
+    sets: 5
+    reps: 10
+notes:
+  - deadlifts felt good
