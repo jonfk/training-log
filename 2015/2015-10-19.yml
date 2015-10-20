@@ -1,0 +1,19 @@
+date: 2015-10-19
+time: 12:30PM
+length: 1h
+bodyweight: 67.2 kg
+workout:
+  - name: pull ups
+    weight: 67.2 kg
+    sets: 5
+    reps: 7
+  - name: tng bench press
+    weight: 175 lbs
+    sets: 3
+    reps: 5
+  - name: incline bench press
+    weight: 125 lbs
+    sets: 3
+    reps: 8
+notes:
+  - felt very tired
