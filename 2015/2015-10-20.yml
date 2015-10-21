@@ -1,0 +1,32 @@
+date: 2015-10-20
+time: 5:30PM
+length: 2h
+bodyweight: 68.2 kg
+workout:
+  - name: overhead press
+    weight: 105 lbs
+    sets: 6
+    reps: 5
+  - name: skull crushers
+    weight: 50 lbs
+    sets: 3
+    reps: 15
+  - name: pull ups
+    weight: 68.2 kg
+    sets: 5
+    reps: 7
+  - name: belted low bar squats
+    weight: 255 lbs
+    sets: 3
+    reps: 5
+  - name: romanian deadlift
+    weight: 165 lbs
+    sets: 3
+    reps: 10
+  - name: db rows
+    weight: 60 lbs
+    sets: 3
+    reps: 10
+notes:
+  - low back was fried after squats
+  - pain in right knee
