@@ -1,0 +1,18 @@
+date: 2015-10-21
+time: 12:00PM
+length: 1h
+bodyweight: 67.2 kg
+workout:
+  - name: pull ups
+    weight: 67.2 kg
+    sets: 5
+    reps: 7
+  - name: bench press
+    weight: 175 lbs
+    sets: 5
+    reps: 5
+  - name: db press
+    weight: 40 lbs
+    sets: 5
+    reps: 10
+notes:
