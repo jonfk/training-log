@@ -1,0 +1,41 @@
+date: 2015-10-26
+time: 5:30PM
+length: 1h30m
+bodyweight: 68.5 kg
+workout:
+  - name: pull ups
+    weight: 68.5 kg
+    sets: 5
+    reps: 7
+  - name: close grip bench press
+    weight: 155 lbs
+    sets: 4
+    reps: 8
+  - name: close grip bench press
+    weight: 155 lbs
+    sets: 1
+    reps: 5
+  - name: tricep pushdowns
+    weight: 40 lbs
+    sets: 3
+    reps: 10
+  - name: belted low bar squats
+    weight: 260 lbs
+    sets: 3
+    reps: 3
+  - name: belted low bar squats
+    weight: 260 lbs
+    sets: 1
+    reps: 2
+  - name: romanian deadlift
+    weight: 175 lbs
+    sets: 5
+    reps: 10
+  - name: db rows
+    weight: 60 lbs
+    sets: 3
+    reps: 10
+notes:
+  - squats fried lower back
+  - bad form
+  - very tired
