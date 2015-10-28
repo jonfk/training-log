@@ -1,0 +1,22 @@
+date: 2015-10-27
+time: 12:30PM
+length: 40m
+bodyweight: 68.5 kg
+workout:
+  - name: pull ups
+    weight: 68.5 kg
+    sets: 3
+    reps: 7
+  - name: bench press
+    weight: 185 lbs
+    sets: 5
+    reps: 3
+  - name: seated rows
+    weight: 40 lbs
+    sets: 3
+    reps: 10
+  - name: pull ups
+    weight: 68.5 kg
+    sets: 4
+    reps: 7
+notes:
