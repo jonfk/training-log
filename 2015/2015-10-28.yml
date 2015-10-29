@@ -1,0 +1,30 @@
+date: 2015-10-28
+time: 5:30PM
+length: 1h30m
+bodyweight: 68.5 kg
+workout:
+  - name: pull ups
+    weight: 68.5 kg
+    sets: 4
+    reps: 7
+  - name: incline bench press
+    weight: 145 lbs
+    sets: 5
+    reps: 5
+  - name: seated rows
+    weight: 40 lbs
+    sets: 5
+    reps: 10
+  - name: overhead press
+    weight: 105 lbs
+    sets: 5
+    reps: 5
+  - name: skull crushers
+    weight: 50 lbs
+    sets: 3
+    reps: 12
+  - name: lateral raises
+    weight: 15 lbs
+    sets: 3
+    reps: 12
+notes:
