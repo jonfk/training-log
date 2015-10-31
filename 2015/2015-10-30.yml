@@ -1,0 +1,21 @@
+date: 2015-10-30
+time: 5:30PM
+length: 1h30m
+bodyweight: 67.5 kg
+workout:
+  - name: pull ups
+    weight: 67.5 kg
+    sets: 4
+    reps: 7
+  - name: close grip bench press
+    weight: 155 lbs
+    sets: 3
+    reps: 8
+  - name: seated rows
+    weight: 120 lbs
+    sets: 3
+    reps: 10
+notes:
+  - may have hurt myself on the seated rows
+  - right shoulder and neck hurts
+  - feels like an impinged nerve
