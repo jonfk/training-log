@@ -1,0 +1,13 @@
+date: 2015-10-31
+time: 11:30AM
+length: 30m
+bodyweight: 67.5 kg
+workout:
+  - name: leg press
+    weight: 135 lbs
+    sets: 6
+    reps: 6
+notes:
+  - hurt
+  - could not deadlift
+  - did not train
