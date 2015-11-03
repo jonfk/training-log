@@ -1,0 +1,17 @@
+date: 2015-11-02
+time: 12:30PM
+length: 30m
+bodyweight: 67.5 kg
+workout:
+  - name: pull ups
+    weight: 67.5 kg
+    sets: 4
+    reps: 7
+  - name: bench press
+    weight: 190 lbs
+    sets: 3
+    reps: 3
+notes:
+  - still hurt
+  - bench felt weird
+  - still pr
