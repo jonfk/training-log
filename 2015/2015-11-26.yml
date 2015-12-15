@@ -1,0 +1,22 @@
+date: 2015-11-26
+time: 8:30PM
+length: 1h30m
+bodyweight: 67.5 kg
+workout:
+  - name: paused low bar squats
+    weight: 225 lbs
+    sets: 5
+    reps: 3
+  - name: pull ups
+    weight: 67.5 kg
+    sets: 5
+    reps: 8
+  - name: close grip incline bench press
+    weight: 135 lbs
+    sets: 2
+    reps: 5
+  - name: close grip incline bench press
+    weight: 135 lbs
+    sets: 3
+    reps: 8
+notes:

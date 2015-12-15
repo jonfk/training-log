@@ -1,0 +1,28 @@
+date: 2015-11-19
+time: 5:30PM
+length: 1h30m
+bodyweight: 67.5 kg
+workout:
+  - name: bench press
+    weight: 155 lbs
+    sets: 2
+    reps: 10
+  - name: bench press
+    weight: 155 lbs
+    sets: 1
+    reps: 5
+  - name: paused low bar squats
+    weight: 185 lbs
+    sets: 1
+    reps: 5
+  - name: paused low bar squats
+    weight: 205 lbs
+    sets: 3
+    reps: 3
+  - name: bent over rows
+    weight: 135 lbs
+    sets: 5
+    reps: 10
+notes:
+  - 20m of cardio
+  - still kind of deloading

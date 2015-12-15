@@ -1,0 +1,18 @@
+date: 2015-11-21
+time: 11:00PM
+length: 2h30m
+bodyweight: 67.5 kg
+workout:
+  - name: conventional deadlift
+    weight: 245 lbs
+    sets: 5
+    reps: 5
+  - name: bench press
+    weight: 185 lbs
+    sets: 1
+    reps: 3
+  - name: bench press
+    weight: 205 lbs
+    sets: 1
+    reps: 1
+notes:

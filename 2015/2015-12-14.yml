@@ -1,0 +1,28 @@
+date: 2015-12-14
+time: 12:30PM
+length: 30m
+bodyweight: 68.2 kg
+workout:
+  - name: pull ups
+    weight: 68.2 kg
+    sets: 5
+    reps: 5
+  - name: bench press
+    weight: 155 lbs
+    sets: 1
+    reps: 5
+  - name: bench press
+    weight: 175 lbs
+    sets: 1
+    reps: 3
+  - name: db press
+    weight: 45 lbs
+    sets: 3
+    reps: 8
+  - name: db press
+    weight: 45 lbs
+    sets: 2
+    reps: 7
+notes:
+  - bench press feeling bad
+  - upper body sore

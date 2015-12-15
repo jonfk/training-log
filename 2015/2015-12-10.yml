@@ -1,0 +1,15 @@
+date: 2015-12-10
+time: 8:30AM
+length: 1h30m
+bodyweight: 68.4 kg
+workout:
+  - name: low bar squats
+    weight: 230 lbs
+    sets: 5
+    reps: 5
+  - name: lat pulldowns
+    weight: 120 lbs
+    sets: 5
+    reps: 10
+notes:
+  - bad data

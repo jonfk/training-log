@@ -1,0 +1,29 @@
+date: 2015-11-17
+time: 5:30PM
+length: 30m
+bodyweight: 67.5 kg
+workout:
+  - name: overhead press
+    weight: 105 lbs
+    sets: 5
+    reps: 5
+  - name: lateral raises
+    weight: 15 lbs
+    sets: 3
+    reps: 15
+  - name: front raises
+    weight: 10 lbs
+    sets: 3
+    reps: 15
+  - name: low bar squats
+    weight: 225 lbs
+    sets: 3
+    reps: 5
+  - name: romanian deadlift
+    weight: 175 lbs
+    sets: 3
+    reps: 10
+notes:
+  - lateral and front raises supersetted
+  - no squat shoes
+  - cardio, 15m

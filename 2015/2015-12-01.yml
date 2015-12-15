@@ -1,0 +1,10 @@
+date: 2015-12-01
+time: 12:30PM
+length: 1h
+bodyweight: 68.5 kg
+workout:
+  - name: belted low bar squats
+    weight: 245 lbs
+    sets: 5
+    reps: 5
+notes:

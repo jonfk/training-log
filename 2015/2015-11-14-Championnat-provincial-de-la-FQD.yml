@@ -1,0 +1,49 @@
+date: 2015-11-14
+time: 1:30PM
+length: 4h
+bodyweight: 67.1kg
+event:
+  name: Championnat provincial de la Fédération québécoise de dynamophilie
+  wilks: 311.82
+  total: 402.5 kg
+workout:
+  - name: belted low bar squats
+    weight: 122.5 kg
+    sets: 1
+    reps: 1
+  - name: belted low bar squats
+    weight: 132.5 kg
+    sets: 1
+    reps: 1
+  - name: belted low bar squats
+    weight: 140 kg
+    sets: 1
+    reps: 1
+  - name: bench press
+    weight: 85.0 kg
+    sets: 1
+    reps: 1
+  - name: bench press
+    weight: 95.0 kg
+    sets: 1
+    reps: 1
+  - name: bench press
+    weight: 100.0 kg
+    sets: 0
+    reps: 0
+  - name: sumo deadlift
+    weight: 152.5 kg
+    sets: 1
+    reps: 1
+  - name: sumo deadlift
+    weight: 162.5 kg
+    sets: 1
+    reps: 1
+  - name: sumo deadlift
+    weight: 167.5 kg
+    sets: 1
+    reps: 1
+notes:
+  - stomach was upset during deadlifts
+  - should have eaten more during or before competition
+  - got the silver medal for theh -74kg weight class for juniors

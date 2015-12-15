@@ -1,0 +1,14 @@
+date: 2015-11-10
+time: 5:30PM
+length: 1h
+bodyweight: 67.5 kg
+workout:
+  - name: belted low bar squats
+    weight: 265 lbs
+    sets: 3
+    reps: 3
+  - name: romanian deadlift
+    weight: 175 lbs
+    sets: 5
+    reps: 10
+notes:

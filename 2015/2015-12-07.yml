@@ -1,0 +1,15 @@
+date: 2015-12-07
+time: 12:30PM
+length: 30m
+bodyweight: 68.4 kg
+workout:
+  - name: pull ups
+    weight: 68.4 kg
+    sets: 3
+    reps: 5
+  - name: bench press
+    weight: 175 lbs
+    sets: 5
+    reps: 5
+notes:
+  - bad data

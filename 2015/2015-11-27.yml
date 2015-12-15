@@ -1,0 +1,14 @@
+date: 2015-11-27
+time: 12:30PM
+length: 1h
+bodyweight: 67.5 kg
+workout:
+  - name: db press
+    weight: 50 lbs
+    sets: 5
+    reps: 5
+  - name: lat pulldowns
+    weight: 120 lbs
+    sets: 5
+    reps: 10
+notes:

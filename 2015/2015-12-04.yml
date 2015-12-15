@@ -1,0 +1,10 @@
+date: 2015-12-04
+time: 12:30PM
+length: 30m
+bodyweight: 68.5 kg
+workout:
+  - name: bench press
+    weight: 175 lbs
+    sets: 5
+    reps: 4
+notes:
