@@ -1,0 +1,16 @@
+date: 2015-12-15
+time: 8:30AM
+length: 1h
+bodyweight: 68.2 kg
+workout:
+  - name: belted low bar squats
+    weight: 255 lbs
+    sets: 3
+    reps: 5
+  - name: romanian deadlift
+    weight: 135 lbs
+    sets: 3
+    reps: 10
+notes:
+  - hurt my neck and shoulder on right side during squats
+  - same pain as before
