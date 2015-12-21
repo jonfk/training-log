@@ -1,0 +1,11 @@
+date: 2015-12-18
+time: 2:30PM
+length: 30m
+bodyweight: 68.2 kg
+workout:
+  - name: overhead press
+    weight: 95 lbs
+    sets: 5
+    reps: 7
+notes:
+  - neck still hurting

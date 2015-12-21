@@ -1,0 +1,15 @@
+date: 2015-12-17
+time: 12:30PM
+length: 1h
+bodyweight: 68.2 kg
+workout:
+  - name: incline bench press
+    weight: 135 lbs
+    sets: 5
+    reps: 7
+  - name: lat pulldowns
+    weight: 115 lbs
+    sets: 5
+    reps: 10
+notes:
+  - neck still hurting

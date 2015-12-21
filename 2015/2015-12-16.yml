@@ -1,0 +1,16 @@
+date: 2015-12-16
+time: 12:30PM
+length: 1h
+bodyweight: 68.2 kg
+workout:
+  - name: close grip bench press
+    weight: 155 lbs
+    sets: 4
+    reps: 7
+  - name: lat pulldowns
+    weight: 115 lbs
+    sets: 5
+    reps: 10
+notes:
+  - neck still hurting
+  - hard time sleeping with pain in the morning

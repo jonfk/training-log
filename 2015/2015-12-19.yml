@@ -1,0 +1,32 @@
+date: 2015-12-19
+time: 11:00AM
+length: 4h
+bodyweight: 68.2 kg
+workout:
+  - name: conventional deadlift
+    weight: 295 lbs
+    sets: 3
+    reps: 3
+  - name: conventional deadlift
+    weight: 245 lbs
+    sets: 3
+    reps: 5
+  - name: bench press
+    weight: 185 lbs
+    sets: 2
+    reps: 4
+  - name: bench press
+    weight: 185 lbs
+    sets: 3
+    reps: 3
+  - name: high bar squats
+    weight: 185 lbs
+    sets: 5
+    reps: 5
+  - name: db incline press
+    weight: 50 lbs
+    sets: 5
+    reps: 12
+notes:
+  - neck still hurting
+  - started wiht bad form and rocking on 295lbs conventional deadlifts
