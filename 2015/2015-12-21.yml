@@ -1,0 +1,19 @@
+date: 2015-12-21
+time: 12:30PM
+length: 30m
+bodyweight: 67.8 kg
+workout:
+  - name: pull ups
+    weight: 67.8 kg
+    sets: 5
+    reps: 7
+  - name: bench press
+    weight: 175 lbs
+    sets: 4
+    reps: 5
+  - name: tng bench press
+    weight: 175 lbs
+    sets: 1
+    reps: 5
+notes:
+  - neck still hurting

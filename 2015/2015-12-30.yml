@@ -1,0 +1,31 @@
+date: 2015-12-30
+time: 2:30PM
+length: 1h30m
+bodyweight: 67.6 kg
+workout:
+  - name: belted low bar squats
+    weight: 185 lbs
+    sets: 1
+    reps: 5
+  - name: belted low bar squats
+    weight: 205 lbs
+    sets: 1
+    reps: 5
+  - name: belted low bar squats
+    weight: 225 lbs
+    sets: 1
+    reps: 3
+  - name: belted low bar squats
+    weight: 245 lbs
+    sets: 2
+    reps: 3
+  - name: bench press
+    weight: 175 lbs
+    sets: 1
+    reps: 3
+  - name: bench press
+    weight: 155 lbs
+    sets: 5
+    reps: 5
+notes:
+  - slow come back after being sick for a week
