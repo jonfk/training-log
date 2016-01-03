@@ -1,0 +1,28 @@
+date: 2016-01-02
+time: 12:30PM
+length: 3h
+bodyweight: 67.6 kg
+workout:
+  - name: conventional deadlift
+    weight: 225 lbs
+    sets: 3
+    reps: 5
+  - name: conventional deadlift
+    weight: 245 lbs
+    sets: 5
+    reps: 5
+  - name: bench press
+    weight: 178 lbs
+    sets: 5
+    reps: 5
+  - name: db incline press
+    weight: 45 lbs
+    sets: 3
+    reps: 8
+  - name: pull ups
+    weight: 67.6 kg
+    sets: 5
+    reps: 5
+notes:
+  - light training for coming back after being sick with flu
+  - still sore throat but less energy affected
