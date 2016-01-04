@@ -1,0 +1,24 @@
+date: 2016-01-04
+time: 12:30PM
+length: 1h
+bodyweight: 67.8 kg
+workout:
+  - name: overhead press
+    weight: 105 lbs
+    sets: 3
+    reps: 5
+  - name: push press
+    weight: 105 lbs
+    sets: 2
+    reps: 5
+  - name: lateral raises
+    weight: 15 lbs
+    sets: 3
+    reps: 15
+  - name: front raises
+    weight: 15 lbs
+    sets: 3
+    reps: 10
+notes:
+  - sore throat
+  - light soreness in core and upper back
