@@ -11,6 +11,10 @@ workout:
     weight: 245 lbs
     sets: 5
     reps: 5
+  - name: stiff leg deadlift
+    weight: 225 lbs
+    sets: 3
+    reps: 5
   - name: bench press
     weight: 178 lbs
     sets: 5
