@@ -1,0 +1,33 @@
+date: 2016-01-06
+time: 12:30PM
+length: 1h
+bodyweight: 67.6 kg
+workout:
+  - name: pull ups
+    weight: 67.6 kg
+    sets: 5
+    reps: 7
+  - name: overhead press
+    weight: 105 lbs
+    sets: 2
+    reps: 5
+  - name: push press
+    weight: 105 lbs
+    sets: 1
+    reps: 5
+  - name: lateral raises
+    weight: 15 lbs
+    sets: 3
+    reps: 15
+  - name: lateral raises
+    weight: 15 lbs
+    sets: 2
+    reps: 10
+  - name: front raises
+    weight: 15 lbs
+    sets: 5
+    reps: 10
+notes:
+  - slowly feeling better
+  - throat not as sore
+  - light workout
