@@ -1,0 +1,36 @@
+date: 2016-01-09
+time: 11:00PM
+length: 3h30m
+bodyweight: 67.3 kg
+workout:
+  - name: conventional deadlift
+    weight: 255 lbs
+    sets: 4
+    reps: 5
+  - name: conventional deadlift
+    weight: 255 lbs
+    sets: 1
+    reps: 7
+  - name: slingshot bench press
+    weight: 225 lbs
+    sets: 2
+    reps: 1
+  - name: tng bench press
+    weight: 179 lbs
+    sets: 3
+    reps: 5
+  - name: high bar squats
+    weight: 185 lbs
+    sets: 5
+    reps: 5
+  - name: db press
+    weight: 45 lbs
+    sets: 4
+    reps: 7
+  - name: pull ups
+    weight: 67.3 kg
+    sets: 5
+    reps: 5
+notes:
+  - light headed and shortness of breath today
+  - finished with arms
