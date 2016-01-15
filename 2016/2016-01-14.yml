@@ -1,0 +1,22 @@
+date: 2016-01-14
+time: 3:00PM
+length: 30m
+bodyweight: 67.5 kg
+workout:
+  - name: high bar squats
+    weight: 185 lbs
+    sets: 1
+    reps: 5
+  - name: high bar squats
+    weight: 205 lbs
+    sets: 3
+    reps: 5
+  - name: bench press
+    weight: 175 lbs
+    sets: 3
+    reps: 5
+  - name: pull ups
+    weight: 67.5 kg
+    sets: 1
+    reps: 5
+notes:
