@@ -1,0 +1,35 @@
+date: 2016-01-16
+time: 11:00AM
+length: 3h
+bodyweight: 67.5 kg
+workout:
+  - name: conventional deadlift
+    weight: 265 lbs
+    sets: 5
+    reps: 5
+  - name: stiff leg deadlift
+    weight: 235 lbs
+    sets: 3
+    reps: 5
+  - name: slingshot bench press
+    weight: 185 lbs
+    sets: 1
+    reps: 5
+  - name: slingshot bench press
+    weight: 225 lbs
+    sets: 1
+    reps: 1
+  - name: slingshot bench press
+    weight: 225 lbs
+    sets: 1
+    reps: 2
+  - name: tng bench press
+    weight: 175 lbs
+    sets: 3
+    reps: 5
+  - name: high bar squats
+    weight: 205 lbs
+    sets: 3
+    reps: 5
+notes:
+  - last reps of deadlift were not very good need to improve or concentrate on this
