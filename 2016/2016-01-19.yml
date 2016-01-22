@@ -1,0 +1,25 @@
+date: 2016-01-19
+time: 12:00PM
+length: 1h
+bodyweight: 67.5 kg
+workout:
+  - name: high bar squats
+    weight: 185 lbs
+    sets: 1
+    reps: 5
+  - name: high bar squats
+    weight: 205 lbs
+    sets: 1
+    reps: 5
+  - name: low bar squats
+    weight: 225 lbs
+    sets: 5
+    reps: 3
+  - name: tng bench press
+    weight: 175 lbs
+    sets: 3
+    reps: 5
+notes:
+  - upper body very sore
+  - lower body very sore
+  - squat form felt off
