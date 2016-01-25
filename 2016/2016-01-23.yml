@@ -1,0 +1,26 @@
+date: 2016-01-23
+time: 11:00AM
+length: 3h
+bodyweight: 67.5 kg
+workout:
+  - name: conventional deadlift
+    weight: 275 lbs
+    sets: 5
+    reps: 5
+  - name: stiff leg deadlift
+    weight: 235 lbs
+    sets: 3
+    reps: 5
+  - name: bench press
+    weight: 178 lbs
+    sets: 5
+    reps: 5
+  - name: high bar squats
+    weight: 210 lbs
+    sets: 3
+    reps: 5
+  - name: pull ups
+    weight: 67.5 kg
+    sets: 5
+    reps: 5
+notes:
