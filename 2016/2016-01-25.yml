@@ -1,0 +1,22 @@
+date: 2016-01-25
+time: 12:00PM
+length: 1h
+bodyweight: 67.5 kg
+workout:
+  - name: overhead press
+    weight: 105 lbs
+    sets: 3
+    reps: 5
+  - name: lateral raises
+    weight: 15 lbs
+    sets: 3
+    reps: 15
+  - name: front raises
+    weight: 15 lbs
+    sets: 3
+    reps: 10
+  - name: lat pulldowns
+    weight: 120 lbs
+    sets: 3
+    reps: 10
+notes:

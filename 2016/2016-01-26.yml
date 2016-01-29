@@ -1,0 +1,18 @@
+date: 2016-01-26
+time: 12:00PM
+length: 1h
+bodyweight: 68.0 kg
+workout:
+  - name: high bar squats
+    weight: 215 lbs
+    sets: 3
+    reps: 5
+  - name: bench press
+    weight: 175 lbs
+    sets: 5
+    reps: 5
+  - name: romanian deadlift
+    weight: 135 lbs
+    sets: 3
+    reps: 10
+notes:
