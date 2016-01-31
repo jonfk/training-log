@@ -1,0 +1,18 @@
+date: 2016-01-29
+time: 3:00PM
+length: 30m
+bodyweight: 67.7 kg
+workout:
+  - name: pull ups
+    weight: 67.7 kg
+    sets: 3
+    reps: 7
+  - name: lateral raises
+    weight: 20 lbs
+    sets: 3
+    reps: 10
+  - name: front raises
+    weight: 15 lbs
+    sets: 3
+    reps: 10
+notes:
