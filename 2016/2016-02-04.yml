@@ -1,0 +1,22 @@
+date: 2016-02-04
+time: 12:00PM
+length: 1h
+bodyweight: 68.0 kg
+workout:
+  - name: high bar squats
+    weight: 230 lbs
+    sets: 5
+    reps: 3
+  - name: pull ups
+    weight: 68.0 kg
+    sets: 4
+    reps: 7
+  - name: incline bench press
+    weight: 145 lbs
+    sets: 5
+    reps: 5
+  - name: romanian deadlift
+    weight: 155 lbs
+    sets: 3
+    reps: 10
+notes:
