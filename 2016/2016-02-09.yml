@@ -1,0 +1,18 @@
+date: 2016-02-09
+time: 12:00AM
+length: 1h
+bodyweight: 68.5 kg
+workout:
+  - name: high bar squats
+    weight: 235 lbs
+    sets: 5
+    reps: 3
+  - name: tng bench press
+    weight: 175 lbs
+    sets: 5
+    reps: 5
+  - name: romanian deadlift
+    weight: 155 lbs
+    sets: 3
+    reps: 10
+notes:
