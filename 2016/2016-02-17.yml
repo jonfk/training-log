@@ -1,0 +1,34 @@
+date: 2016-02-17
+time: 12:00PM
+length: 30m
+bodyweight: 66.5 kg
+workout:
+  - name: db press
+    weight: 50 lbs
+    sets: 5
+    reps: 7
+  - name: db rows
+    weight: 60 lbs
+    sets: 3
+    reps: 10
+  - name: lateral raises
+    weight: 20 lbs
+    sets: 3
+    reps: 12
+  - name: front raises
+    weight: 15 lbs
+    sets: 3
+    reps: 12
+  - name: one arm db tricep extension
+    weight: 15 lbs
+    sets: 4
+    reps: 10
+  - name: tricep pushdowns
+    weight: 30 lbs
+    sets: 3
+    reps: 10
+  - name: lat pulldowns
+    weight: 120 lbs
+    sets: 3
+    reps: 10
+notes:
