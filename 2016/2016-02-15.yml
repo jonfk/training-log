@@ -1,0 +1,22 @@
+date: 2016-02-15
+time: 11:00AM
+length: 30m
+bodyweight: 66.5 kg
+workout:
+  - name: pull ups
+    weight: 66.5 kg
+    sets: 3
+    reps: 7
+  - name: db press
+    weight: 45 lbs
+    sets: 5
+    reps: 8
+  - name: lateral raises
+    weight: 20 lbs
+    sets: 3
+    reps: 12
+  - name: front raises
+    weight: 15 lbs
+    sets: 3
+    reps: 10
+notes:
