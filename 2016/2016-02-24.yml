@@ -1,0 +1,24 @@
+date: 2016-02-24
+time: 12:00PM
+length: 30m
+bodyweight: 66.5 kg
+workout:
+  - name: db press
+    weight: 50 lbs
+    sets: 5
+    reps: 7
+  - name: bent over rows
+    weight: 135 lbs
+    sets: 5
+    reps: 10
+  - name: lateral raises
+    weight: 20 lbs
+    sets: 5
+    reps: 12
+  - name: front raises
+    weight: 15 lbs
+    sets: 5
+    reps: 10
+notes:
+  - felt really tired and low energy
+  - my sternum had something stuck and could not crack it
