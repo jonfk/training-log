@@ -1,0 +1,30 @@
+date: 2016-02-29
+time: 12:00PM
+length: 1h
+bodyweight: 68.5 kg
+workout:
+  - name: overhead press
+    weight: 95 lbs
+    sets: 1
+    reps: 5
+  - name: overhead press
+    weight: 95 lbs
+    sets: 4
+    reps: 6
+  - name: lateral raises
+    weight: 20 lbs
+    sets: 5
+    reps: 15
+  - name: front raises
+    weight: 15 lbs
+    sets: 5
+    reps: 10
+  - name: db skull crushers
+    weight: 20 lbs
+    sets: 3
+    reps: 10
+  - name: lat pulldowns
+    weight: 120 lbs
+    sets: 3
+    reps: 10
+notes:

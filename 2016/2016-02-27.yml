@@ -1,0 +1,30 @@
+date: 2016-02-27
+time: 9:40AM
+length: 3h30m
+bodyweight: 68.5 kg
+workout:
+  - name: conventional deadlift
+    weight: 275 lbs
+    sets: 8
+    reps: 4
+  - name: stiff leg deadlift
+    weight: 245 lbs
+    sets: 3
+    reps: 5
+  - name: bench press
+    weight: 190 lbs
+    sets: 4
+    reps: 3
+  - name: db incline press
+    weight: 60 lbs
+    sets: 1
+    reps: 8
+  - name: db incline press
+    weight: 60 lbs
+    sets: 4
+    reps: 5
+  - name: chest supported rows
+    weight: 70 lbs
+    sets: 3
+    reps: 5
+notes:

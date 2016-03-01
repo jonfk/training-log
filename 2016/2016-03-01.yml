@@ -1,0 +1,26 @@
+date: 2016-03-01
+time: 11:30AM
+length: 1h
+bodyweight: 68.5 kg
+workout:
+  - name: high bar squats
+    weight: 240 lbs
+    sets: 5
+    reps: 3
+  - name: bench press
+    weight: 175 lbs
+    sets: 1
+    reps: 5
+  - name: close grip bench press
+    weight: 135 lbs
+    sets: 1
+    reps: 10
+  - name: romanian deadlift
+    weight: 155 lbs
+    sets: 1
+    reps: 10
+  - name: db shrugs
+    weight: 65 lbs
+    sets: 5
+    reps: 10
+notes:
