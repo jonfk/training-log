@@ -1,0 +1,24 @@
+date: 2016-03-04
+time: 1:00PM
+length: 30m
+bodyweight: 68.5 kg
+workout:
+  - name: pull ups
+    weight: 68.5 kg
+    sets: 5
+    reps: 7
+  - name: db press
+    weight: 50 lbs
+    sets: 5
+    reps: 7
+  - name: lateral raises
+    weight: 25 lbs
+    sets: 5
+    reps: 10
+  - name: front raises
+    weight: 15 lbs
+    sets: 5
+    reps: 12
+notes:
+  - very tired
+  - arms and forearms incredibly sore. Possibly from typing or shrugs
