@@ -1,0 +1,32 @@
+date: 2016-03-05
+time: 9:30AM
+length: 3h30m
+bodyweight: 68.5 kg
+workout:
+  - name: conventional deadlift
+    weight: 285 lbs
+    sets: 8
+    reps: 4
+  - name: stiff leg deadlift
+    weight: 245 lbs
+    sets: 3
+    reps: 5
+  - name: bench press
+    weight: 190 lbs
+    sets: 3
+    reps: 3
+  - name: high bar squats
+    weight: 245 lbs
+    sets: 5
+    reps: 3
+  - name: db incline press
+    weight: 55 lbs
+    sets: 5
+    reps: 7
+  - name: pull ups
+    weight: 68.5 kg
+    sets: 3
+    reps: 7
+notes:
+  - very tired
+  - cummulative fatigue
