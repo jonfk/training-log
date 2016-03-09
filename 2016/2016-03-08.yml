@@ -1,0 +1,27 @@
+date: 2016-03-08
+time: 11:30AM
+length: 30m
+bodyweight: 68.5 kg
+workout:
+  - name: pull ups
+    weight: 68.5 kg
+    sets: 3
+    reps: 7
+  - name: high bar squats
+    weight: 225 lbs
+    sets: 3
+    reps: 5
+  - name: bench press
+    weight: 155 lbs
+    sets: 1
+    reps: 5
+  - name: incline bench press
+    weight: 135 lbs
+    sets: 1
+    reps: 5
+  - name: db shrugs
+    weight: 70 lbs
+    sets: 3
+    reps: 10
+notes:
+  - completely dead tired. Could not do any of my usual intensity

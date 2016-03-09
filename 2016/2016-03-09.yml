@@ -1,0 +1,23 @@
+date: 2016-03-09
+time: 12:30PM
+length: 30m
+bodyweight: 68.5 kg
+workout:
+  - name: pull ups
+    weight: 68.5 kg
+    sets: 3
+    reps: 7
+  - name: db press
+    weight: 50 lbs
+    sets: 4
+    reps: 8
+  - name: db press
+    weight: 50 lbs
+    sets: 1
+    reps: 7
+  - name: bent over rows
+    weight: 115 lbs
+    sets: 5
+    reps: 10
+notes:
+  - completely dead tired. Could not do any of my usual intensity
