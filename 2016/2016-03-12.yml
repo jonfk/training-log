@@ -1,0 +1,21 @@
+date: 2016-03-12
+time: 9:30AM
+length: 2h
+bodyweight: 68.5 kg
+workout:
+  - name: conventional deadlift
+    weight: 295 lbs
+    sets: 5
+    reps: 4
+  - name: bench press
+    weight: 155 lbs
+    sets: 1
+    reps: 5
+  - name: bent over rows
+    weight: 135 lbs
+    sets: 1
+    reps: 10
+notes:
+  - feeling sick
+  - tired
+  - decided to deload and bail
