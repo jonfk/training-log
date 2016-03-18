@@ -1,0 +1,29 @@
+date: 2016-03-17
+time: 12:30PM
+length: 30m
+bodyweight: 68.5 kg
+workout:
+  - name: pull ups
+    weight: 68.5 kg
+    sets: 5
+    reps: 7
+  - name: high bar squats
+    weight: 225 lbs
+    sets: 1
+    reps: 5
+  - name: high bar squats
+    weight: 230 lbs
+    sets: 1
+    reps: 5
+  - name: overhead press
+    weight: 95 lbs
+    sets: 1
+    reps: 4
+  - name: bent over rows
+    weight: 135 lbs
+    sets: 5
+    reps: 10
+notes:
+  - less sick
+  - less tired
+  - still deloading
