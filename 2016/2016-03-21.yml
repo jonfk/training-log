@@ -1,0 +1,18 @@
+date: 2016-03-21
+time: 12:00PM
+length: 30m
+bodyweight: 68.5 kg
+workout:
+  - name: pull ups
+    weight: 68.5 kg
+    sets: 5
+    reps: 7
+  - name: incline bench press
+    weight: 140 lbs
+    sets: 3
+    reps: 5
+  - name: bent over rows
+    weight: 135 lbs
+    sets: 3
+    reps: 10
+notes:
