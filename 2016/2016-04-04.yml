@@ -1,0 +1,23 @@
+date: 2016-04-04
+time: 12:00PM
+length: 30m
+bodyweight: 68.5 kg
+workout:
+  - name: pull ups
+    weight: 68.5 kg
+    sets: 4
+    reps: 5
+  - name: overhead press
+    weight: 105 lbs
+    sets: 5
+    reps: 3
+  - name: lateral raises
+    weight: 20 lbs
+    sets: 3
+    reps: 15
+  - name: front raises
+    weight: 15 lbs
+    sets: 3
+    reps: 15
+notes:
+  - did weighted stick swings
