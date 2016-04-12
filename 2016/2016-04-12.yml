@@ -1,0 +1,30 @@
+date: 2016-04-12
+time: 12:00PM
+length: 1h15m
+bodyweight: 68.5 kg
+workout:
+  - name: pull ups
+    weight: 68.5 kg
+    sets: 3
+    reps: 8
+  - name: high bar squats
+    weight: 225 lbs
+    sets: 3
+    reps: 5
+  - name: incline bench press
+    weight: 140 lbs
+    sets: 5
+    reps: 5
+  - name: bent over rows
+    weight: 145 lbs
+    sets: 3
+    reps: 10
+  - name: lateral raises
+    weight: 20 lbs
+    sets: 3
+    reps: 15
+  - name: front raises
+    weight: 15 lbs
+    sets: 3
+    reps: 15
+notes:
