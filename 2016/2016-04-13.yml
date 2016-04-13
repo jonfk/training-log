@@ -1,0 +1,22 @@
+date: 2016-04-13
+time: 12:00PM
+length: 30m
+bodyweight: 68.5 kg
+workout:
+  - name: db press
+    weight: 45 lbs
+    sets: 5
+    reps: 8
+  - name: pull ups
+    weight: 68.5 kg
+    sets: 3
+    reps: 8
+  - name: db skull crushers
+    weight: 20 lbs
+    sets: 3
+    reps: 13
+  - name: db rows
+    weight: 60 lbs
+    sets: 1
+    reps: 10
+notes:
