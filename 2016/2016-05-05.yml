@@ -1,0 +1,22 @@
+date: 2016-05-05
+time: 11:50AM
+length: 1h
+bodyweight: 70.5 kg
+workout:
+  - name: pull ups
+    weight: 68.5 kg
+    sets: 3
+    reps: 8
+  - name: high bar squats
+    weight: 225 lbs
+    sets: 5
+    reps: 3
+  - name: bench press
+    weight: 155 lbs
+    sets: 2
+    reps: 10
+  - name: romanian deadlift
+    weight: 135 lbs
+    sets: 3
+    reps: 10
+notes:
