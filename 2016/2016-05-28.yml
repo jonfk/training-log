@@ -1,0 +1,20 @@
+date: 2016-05-28
+time: 10:30AM
+length: 3h
+bodyweight: 67.5 kg
+workout:
+  - name: bench press
+    weight: 185 lbs
+    sets: 1
+    reps: 5
+  - name: bench press
+    weight: 190 lbs
+    sets: 5
+    reps: 3
+  - name: pull ups
+    weight: 67.5 kg
+    sets: 3
+    reps: 8
+notes:
+  - injured my lower back into the hips. According to Adrienne it's something about my pelvis.
+  - stopped tracking for a few weeks. Didn't train when I was in california
